@@ -11,4 +11,14 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 ### Current Release (v1.0.0 BETA)
 
 1. ELIS Joinup page
-2. ELIS release components.
+2. ELIS release component:
+  - ELIS v1.0.0 BETA
+  - ELIS Interoperability Specification Domain Type
+  - MIME Type
+  - CISSV Entity Type
+  - EIRA SKOS
+  - ELIS Overview
+  - CAMSS Info Package v4
+  - ELIS Release notes
+  - EUPL License
+  
