@@ -12,13 +12,13 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 1. [ELIS Joinup page](https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/about)
 2. ELIS release component:
-* [ELIS v1.0.0 BETA](ELIS/elis-v1.0.0 BETA-catalog.ttl)
-* [ELIS Interoperability Specification Domain Type](ELIS/ELIS-InteroperabilitySpecificationDomainType.ttl)
-* [MIME Type](ELIS/MIMEType.ttl)
-* [CISSV Entity Type](ELIS/CISSV-EntityType.ttl)
+* [ELIS v1.0.0 BETA](https://github.com/isa-camss/ELIS/blob/master/elis-v1.0.0%20BETA-catalog.ttl)
+* [ELIS Interoperability Specification Domain Type](https://github.com/isa-camss/ELIS/blob/master/ELIS-InteroperabilitySpecificationDomainType.ttl)
+* [MIME Type](https://github.com/isa-camss/ELIS/blob/master/MIMEType.ttl)
+* [CISSV Entity Type](https://github.com/isa-camss/ELIS/blob/master/CISSV-EntityType.ttl)
 * EIRA SKOS
-* [ELIS Overview](ELIS/ELIS v1.0.0 Overview.pdf)
-* [CAMSS Info Package](ELIS/CAMSS_info v4.pdf)
-* [ELIS Release notes](ELIS/ELIS Release notes v1.0.0.pdf)
-* [EUPL License](ELIS/EUPL v1.2.pdf)
+* [ELIS Overview](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.0.0%20Overview.pdf)
+* [CAMSS Info Package](https://github.com/isa-camss/ELIS/blob/master/CAMSS_info%20v4.pdf)
+* [ELIS Release notes](https://github.com/isa-camss/ELIS/blob/master/ELIS%20Release%20notes%20v1.0.0.pdf)
+* [EUPL License](https://github.com/isa-camss/ELIS/blob/master/EUPL%20v1.2.pdf)
   
