@@ -10,7 +10,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 ## Relevant Documentation
 ### Current Release (v1.0.0 BETA)
 
-1. ELIS Joinup page
+1. [ELIS Joinup page](https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/about)
 2. ELIS release component:
   - ELIS v1.0.0 BETA
   - ELIS Interoperability Specification Domain Type
