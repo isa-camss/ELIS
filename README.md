@@ -12,13 +12,13 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 1. [ELIS Joinup page](https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/about)
 2. ELIS release component:
-* ELIS v1.0.0 BETA
-* ELIS Interoperability Specification Domain Type
-* MIME Type
-* CISSV Entity Type
+* [ELIS v1.0.0 BETA](ELIS/elis-v1.0.0 BETA-catalog.ttl)
+* [ELIS Interoperability Specification Domain Type](ELIS/ELIS-InteroperabilitySpecificationDomainType.ttl)
+* [MIME Type](ELIS/MIMEType.ttl)
+* [CISSV Entity Type](ELIS/CISSV-EntityType.ttl)
 * EIRA SKOS
-* ELIS Overview
-* CAMSS Info Package
-* ELIS Release notes
-* EUPL License
+* [ELIS Overview](ELIS/ELIS v1.0.0 Overview.pdf)
+* [CAMSS Info Package](ELIS/CAMSS_info v4.pdf)
+* [ELIS Release notes](ELIS/ELIS Release notes v1.0.0.pdf)
+* [EUPL License](ELIS/EUPL v1.2.pdf)
   
