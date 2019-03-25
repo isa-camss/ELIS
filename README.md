@@ -18,7 +18,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
   - CISSV Entity Type
   - EIRA SKOS
   - ELIS Overview
-  - CAMSS Info Package v4
+  - CAMSS Info Package
   - ELIS Release notes
   - EUPL License
   
