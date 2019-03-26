@@ -17,9 +17,9 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 * [MIME Type](https://github.com/isa-camss/ELIS/blob/master/MIMEType.ttl)
 * [CISSV Entity Type](https://github.com/isa-camss/ELIS/blob/master/CISSV-EntityType.ttl)
 * [EIRA v3.0.0 SKOS](https://github.com/isa-camss/ELIS/blob/master/EIRA_v3_0_0_SKOS.rdf)
-* [ELIS Overview](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.0.0%20Overview.pdf)
-* [CAMSS Info Package](https://github.com/isa-camss/ELIS/blob/master/CAMSS_info%20v4.pdf)
+* [ELIS v1.0.0 Overview](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.0.0%20Overview.pdf)
+* [CAMSS Info Package v1.4](https://github.com/isa-camss/ELIS/blob/master/CAMSS_info%20v4.pdf)
 * [ELIS Release notes](https://github.com/isa-camss/ELIS/blob/master/ELIS%20Release%20notes%20v1.0.0.pdf)
-* [EUPL License](https://github.com/isa-camss/ELIS/blob/master/EUPL%20v1.2.pdf)
+* [EUPL License v1.2](https://github.com/isa-camss/ELIS/blob/master/EUPL%20v1.2.pdf)
 * [ELIS release](https://github.com/isa-camss/ELIS/blob/master/ELIS%20release.zip)
   
