@@ -21,5 +21,5 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 * [CAMSS Info Package v1.4](https://github.com/isa-camss/ELIS/blob/master/CAMSS_info%20v4.pdf)
 * [ELIS Release notes](https://github.com/isa-camss/ELIS/blob/master/ELIS%20Release%20notes%20v1.0.0.pdf)
 * [EUPL License v1.2](https://github.com/isa-camss/ELIS/blob/master/EUPL%20v1.2.pdf)
-* [ELIS release](https://github.com/isa-camss/ELIS/blob/master/ELIS%20release.zip)
+* [ELIS v1.0.0 BETA release](https://github.com/isa-camss/ELIS/blob/master/ELIS%20release.zip)
   
