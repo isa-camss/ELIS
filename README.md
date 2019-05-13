@@ -13,7 +13,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 1. [ELIS Joinup page](https://joinup.ec.europa.eu/solution/elis)
 2. ELIS release components:
 * [ELIS catalogue v1.0.0 BETA.ttl](https://github.com/isa-camss/ELIS/blob/master/ELIS_catalogue_v1.0.0_BETA.ttl)
-* [ELIS catalogue v1.0.0 BETA.xlsx](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.01%20BETA.xlsx)
+* [ELIS catalogue v1.0.0 BETA.xlsx](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.0.0%20BETA.xlsx)
 * [ELIS Interoperability Specification Domain Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_InteroperabilitySpecificationDomainType_v1.0.0.ttl)
 * [ELIS MIME Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_MIMEType_v1.0.0.ttl)
 * [ELIS CISSV Entity Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_CISSV_EntityType_v1.0.0.ttl)
