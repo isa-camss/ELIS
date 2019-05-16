@@ -5356,21 +5356,326 @@
                   dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
                   dct:relation :DATASET-00000378 .                   
 
+#Regulation (EU) 910/2014 (eIDAS)
+
+:CATALOG-ENTRY-0084 rdf:type owl:NamedIndividual ,
+                  dcat:CatalogRecord ;
+                  dct:title "Regulation (EU) No 910/2014"@en ; 
+                  dct:description "Regulation of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"@en ;
+                  dct:issued "2019-05-13"^^xsd:date ;
+                        dct:publisher "CAMSS Team"@en ;
+                        foaf:primaryTopic :DATASET-00000391 ;
+                        skos:note "(dct:issued) The date when the Interoperability Specification was included in the ELIS Catalogue."@en .           
+
+:DATASET-00000391 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG" ;
+                  dct:type cissv-ap:InteroperabilitySpecification ;
+                  dct:title "Regulation (EU) No 910/2014"@en ; 
+                  dct:description "Regulation of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."@en ;
+                  dct:issued "2014-07-23"^^xsd:date ;
+                  dct:relation :DATASET-00000392 ,
+                               :DATASET-00000393 ;        
+                  owl:versionInfo "Unknown" ;
+                  skos:note "(dct:issued) The date when the Dataset was released by its publisher."@en ;
+                  dcat:landingPage "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG" ;
+                  dct:publisher [foaf:name "European Parliament"] ;
+                  dct:modified "2014-07-23"^^xsd:date ;
+                  dcat:distribution :DISTRIBUTION-00000116 .
+
+:DISTRIBUTION-00000116 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG" ;
+                  dct:format mime:PDF .
+
+:DISTRIBUTION-00000117 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31999L0093" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31999L0093" ;
+                  dct:format mime:PDF .
+
+:DATASET-00000392 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfiguration ;
+                  dct:description "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                  dct:theme dom:Domain-Agnostic ;
+                  dct:relation :DATASET-00000394 .
+
+:DATASET-00000393 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type eira:InteroperabilitySpecification ;
+                  dct:title "EIRA Interoperability Specification"@en ;
+                  dct:description "An Interoperability Specification is a document containing agreed normative statements for solution building blocks used in an information exchange context. It can refer to existing standards or specifications. "@en ;
+                  dct:relation eira:BindingInstrument .
+
+:DATASET-00000394 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/interoperabilityspecificationconfigurationcomponent#00000084" ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
+                  dct:relation :DATASET-00000395 .  
+
+:DATASET-00000395 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/standard#0000070" ;
+                  dct:type cissv-ap:Standard ;
+                  dct:title "Directive 1999/93/EC"@en ; 
+                  dct:description "Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures."@en ;
+                  dcat:distribution :DISTRIBUTION-00000117 . 
 
 
+#Commission Implementing Regulation (EU) 2015/1501
+
+:CATALOG-ENTRY-0085 rdf:type owl:NamedIndividual ,
+                  dcat:CatalogRecord ;
+                  dct:title "Commission Implementing Regulation (EU) 2015/1501"@en ; 
+                  dct:description "Corrigendum to Commission Implementing Regulation (EU) 2015/1501 of 8 September 2015 on the interoperability framework pursuant to Article 12(8) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market"@en ;
+                  dct:issued "2019-05-13"^^xsd:date ;
+                        dct:publisher "CAMSS Team"@en ;
+                        foaf:primaryTopic :DATASET-00000396 ;
+                        skos:note "(dct:issued) The date when the Interoperability Specification was included in the ELIS Catalogue."@en .           
+
+:DATASET-00000396 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1501R(01)" ;
+                  dct:type cissv-ap:InteroperabilitySpecification ;
+                  dct:title "Commission Implementing Regulation (EU) 2015/1501"@en ; 
+                  dct:description "Corrigendum to Commission Implementing Regulation (EU) 2015/1501 of 8 September 2015 on the interoperability framework pursuant to Article 12(8) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market"@en ;
+                  dct:issued "2015-09-09"^^xsd:date ;
+                  dct:relation :DATASET-00000397 ,
+                               :DATASET-00000398 ;        
+                  owl:versionInfo "Unknown" ;
+                  skos:note "(dct:issued) The date when the Dataset was released by its publisher."@en ;
+                  dcat:landingPage "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1501R(01)" ;
+                  dct:publisher [foaf:name "European Union"] ;
+                  dct:modified "2015-09-09"^^xsd:date ;
+                  dcat:distribution :DISTRIBUTION-00000118 .
+
+:DISTRIBUTION-00000118 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1501R(01)" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1501R(01)" ;
+                  dct:format mime:PDF .
+
+:DATASET-00000397 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfiguration ;
+                  dct:description "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                  dct:theme dom:Domain-Agnostic ;
+                  dct:relation :DATASET-00000399 .
+
+:DATASET-00000398 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type eira:InteroperabilitySpecification ;
+                  dct:title "EIRA Interoperability Specification"@en ;
+                  dct:description "An Interoperability Specification is a document containing agreed normative statements for solution building blocks used in an information exchange context. It can refer to existing standards or specifications. "@en ;
+                  dct:relation eira:PublicPolicyImplementationApproach .
+
+:DATASET-00000399 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/interoperabilityspecificationconfigurationcomponent#00000085" ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
+                  dct:relation :DATASET-00000400 .  
+
+:DATASET-00000400 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/standard#0000071" ;
+                  dct:type cissv-ap:Standard ;
+                  dct:title "Regulation (EU) No 910/2014"@en ; 
+                  dct:description "Regulation of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"@en ;
+                  dcat:distribution :DISTRIBUTION-00000116 . 
 
 
+#REGULATION (EU) No 910/2014
+
+:CATALOG-ENTRY-0086 rdf:type owl:NamedIndividual ,
+                  dcat:CatalogRecord ;
+                  dct:title "REGULATION (EU) No 910/2014"@en ; 
+                  dct:description "REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transaction"@en ;
+                  dct:issued "2019-05-13"^^xsd:date ;
+                        dct:publisher "CAMSS Team"@en ;
+                        foaf:primaryTopic :DATASET-00000401 ;
+                        skos:note "(dct:issued) The date when the Interoperability Specification was included in the ELIS Catalogue."@en .           
+
+:DATASET-00000401 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&from=EN" ;
+                  dct:type cissv-ap:InteroperabilitySpecification ;
+                  dct:title "REGULATION (EU) No 910/2014"@en ; 
+                  dct:description "REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transaction"@en ;
+                  dct:issued "2014-07-23"^^xsd:date ;
+                  dct:relation :DATASET-00000402 ,
+                               :DATASET-00000403 ;        
+                  owl:versionInfo "Unknown" ;
+                  skos:note "(dct:issued) The date when the Dataset was released by its publisher."@en ;
+                  dcat:landingPage "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&from=EN" ;
+                  dct:publisher [foaf:name "European Union"] ;
+                  dct:modified "2014-07-23"^^xsd:date ;
+                  dcat:distribution :DISTRIBUTION-00000119 .
+
+:DISTRIBUTION-00000119 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&from=EN" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&from=EN" ;
+                  dct:format mime:PDF .
+
+:DATASET-00000402 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfiguration ;
+                  dct:description "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                  dct:theme dom:Domain-Agnostic ;
+                  dct:relation :DATASET-00000404 .
+
+:DATASET-00000403 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type eira:InteroperabilitySpecification ;
+                  dct:title "EIRA Interoperability Specification"@en ;
+                  dct:description "An Interoperability Specification is a document containing agreed normative statements for solution building blocks used in an information exchange context. It can refer to existing standards or specifications. "@en ;
+                  dct:relation eira:InteroperabilityFramework ;
+                  dct:relation eira:InteroperabilityOrganisationalAuthority ;
+                  dct:relation eira:PublicServiceCatalogue ;
+                  dct:relation eira:SecurityFramework ;
+                  dct:relation eira:PrivacyFramework .
+
+:DATASET-00000404 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/interoperabilityspecificationconfigurationcomponent#00000086" ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
+                  dct:relation :DATASET-00000395 .  
 
 
+#REGULATION (EC) No 764/2008 
+
+:CATALOG-ENTRY-0087 rdf:type owl:NamedIndividual ,
+                  dcat:CatalogRecord ;
+                  dct:title "REGULATION (EC) No 764/2008 "@en ; 
+                  dct:description "REGULATION (EC) No 764/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 July 2008 laying down procedures relating to the application of certain national technical rules to products lawfully marketed in another Member State and repealing Decision No 3052/95/EC"@en ;
+                  dct:issued "2019-05-13"^^xsd:date ;
+                        dct:publisher "CAMSS Team"@en ;
+                        foaf:primaryTopic :DATASET-00000405 ;
+                        skos:note "(dct:issued) The date when the Interoperability Specification was included in the ELIS Catalogue."@en .           
+
+:DATASET-00000405 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dcat:accessURL "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:218:0021:0029:en:PDF" ;
+                  dct:type cissv-ap:InteroperabilitySpecification ;
+                  dct:title "REGULATION (EU) No 910/2014"@en ; 
+                  dct:description "REGULATION (EC) No 764/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 July 2008 laying down procedures relating to the application of certain national technical rules to products lawfully marketed in another Member State and repealing Decision No 3052/95/EC"@en ;
+                  dct:issued "2008-07-09"^^xsd:date ;
+                  dct:relation :DATASET-00000406 ,
+                               :DATASET-00000407 ;        
+                  owl:versionInfo "Unknown" ;
+                  skos:note "(dct:issued) The date when the Dataset was released by its publisher."@en ;
+                  dcat:landingPage "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:218:0021:0029:en:PDF" ;
+                  dct:publisher [foaf:name "European Union"] ;
+                  dct:modified "2008-07-09"^^xsd:date ;
+                  dcat:distribution :DISTRIBUTION-00000120 .
+
+:DISTRIBUTION-00000120 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:218:0021:0029:en:PDF" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:218:0021:0029:en:PDF" ;
+                  dct:format mime:PDF .
+
+:DISTRIBUTION-00000121 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31995D3052" ;
+                  dcat:downloadURL "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31995D3052" ;
+                  dct:format mime:PDF .
 
 
+:DATASET-00000406 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfiguration ;
+                  dct:description "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                  dct:theme dom:Domain-Agnostic ;
+                  dct:relation :DATASET-00000408 .
+
+:DATASET-00000407 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type eira:InteroperabilitySpecification ;
+                  dct:title "EIRA Interoperability Specification"@en ;
+                  dct:description "An Interoperability Specification is a document containing agreed normative statements for solution building blocks used in an information exchange context. It can refer to existing standards or specifications. "@en ;
+                  dct:relation eira:Business ;
+                  dct:relation eira:BusinessInformation ;
+                  dct:relation eira:ServiceDeliveryModel .
+
+:DATASET-00000408 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/interoperabilityspecificationconfigurationcomponent#00000087" ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
+                  dct:relation :DATASET-00000409 .  
+
+:DATASET-00000409 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/standard#0000072" ;
+                  dct:type cissv-ap:Standard ;
+                  dct:title "DECISION No 3052/95/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 1995"@en ; 
+                  dct:description "DECISION No 3052/95/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 1995 establishing a procedure for the exchange of information on national measures derogating from the principle of the free movement of goods within the Community"@en ;
+                  dcat:distribution :DISTRIBUTION-00000121 . 
 
 
+#G8 Open Data Charter
+
+:CATALOG-ENTRY-0088 rdf:type owl:NamedIndividual ,
+                  dcat:CatalogRecord ;
+                  dct:title "G8 Open Data Charter"@en ; 
+                  dct:description "Access to data allows individuals and organisations to develop new insights and innovations that can improve the lives of others and help to improve the flow of information within and between countries."@en ;
+                  dct:issued "2019-05-13"^^xsd:date ;
+                        dct:publisher "CAMSS Team"@en ;
+                        foaf:primaryTopic :DATASET-00000410 ;
+                        skos:note "(dct:issued) The date when the Interoperability Specification was included in the ELIS Catalogue."@en .           
+
+:DATASET-00000410 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dcat:accessURL "https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default" ;
+                  dct:type cissv-ap:InteroperabilitySpecification ;
+                  dct:title "G8 Open Data Charter"@en ; 
+                  dct:description "Access to data allows individuals and organisations to develop new insights and innovations that can improve the lives of others and help to improve the flow of information within and between countries."@en ;
+                  dct:issued "2013-06-18"^^xsd:date ;
+                  dct:relation :DATASET-00000411 ,
+                               :DATASET-00000412 ;        
+                  owl:versionInfo "Unknown" ;
+                  skos:note "(dct:issued) The date when the Dataset was released by its publisher."@en ;
+                  dcat:landingPage "https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default" ;
+                  dct:publisher [foaf:name "European Union"] ;
+                  dct:modified "2013-06-18"^^xsd:date ;
+                  dcat:distribution :DISTRIBUTION-00000122 .
+
+:DISTRIBUTION-00000122 rdf:type owl:NamedIndividual ,
+                  dcat:Distribution ;
+                  dcat:accessURL "https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default" ;
+                  dcat:downloadURL "https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default" ;
+                  dct:format mime:HTML .
 
 
+:DATASET-00000411 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfiguration ;
+                  dct:description "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                  dct:theme dom:Domain-Agnostic ;
+                  dct:relation :DATASET-00000413 .
 
+:DATASET-00000412 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:type eira:InteroperabilitySpecification ;
+                  dct:title "EIRA Interoperability Specification"@en ;
+                  dct:description "An Interoperability Specification is a document containing agreed normative statements for solution building blocks used in an information exchange context. It can refer to existing standards or specifications. "@en ;
+				  dct:relation eira:OrganisationalInteroperabilityAgreement .
 
+:DATASET-00000413 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/interoperabilityspecificationconfigurationcomponent#00000088" ;
+                  dct:type cissv-ap:InteroperabilitySpecificationConfigurationComponent ;
+                  dct:relation :DATASET-00000414 .  
 
+:DATASET-00000414 rdf:type owl:NamedIndividual ,
+                  dcat:DataSet ;
+                  dct:identifier "https://joinup.ec.europa.eu/collection/eira/ontology/1.0.0/elis/standard#0000073" ;
+                  dct:type cissv-ap:Standard ;
+                  dct:title "G8 Open Data Charter"@en ; 
+                  dct:description "Access to data allows individuals and organisations to develop new insights and innovations that can improve the lives of others and help to improve the flow of information within and between countries."@en ;
+                  dcat:distribution :DISTRIBUTION-00000122 . 
 
 
 
