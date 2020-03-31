@@ -15,8 +15,8 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 <i>ELIS release components </i>
 
 <ul>
-  <li>ELIS catalogue v1.0.0 BETA.ttl</li>
-<li>ELIS catalogue v1.0.0 BETA.xlsx</li>
+  <li>ELIS catalogue v1.0.0.ttl</li>
+<li>ELIS catalogue v1.0.0.xlsx</li>
 <li>ELIS Interoperability Specification Domain Type v1.0.0</li>
 <li>ELIS CSSV Entity Type v1.0.0</li>
 <li>EIRA v3.0.0 SKOS</li>
