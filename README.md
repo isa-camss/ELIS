@@ -11,11 +11,11 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 <h2>
   <b>Current Release (1.0.0)</b> 
 </h2>
- <i>ELIS release components </i>
+
+<i>ELIS release components </i>
+
 <ul>
-  <a href"https://joinup.ec.europa.eu/solution/elis/release/v100"> Joinup Page</a>
-  
-<li>ELIS catalogue v1.0.0 BETA.ttl</li>
+  <li>ELIS catalogue v1.0.0 BETA.ttl</li>
 <li>ELIS catalogue v1.0.0 BETA.xlsx</li>
 <li>ELIS Interoperability Specification Domain Type v1.0.0</li>
 <li>ELIS CSSV Entity Type v1.0.0</li>
