@@ -8,19 +8,23 @@ The ELIS provides a set of interoperability specifications that define the inter
 ELIS is expressed as an electronic catalogue so it can be consumed by software applications like Archi® and other architecture modelling and development tools. For its expression as a machine-readable artefact, the ELIS uses the DCAT-AP specification.
 
 ## Relevant Documentation
-### Current Release (v1.0.0 BETA)
+<h2>
+  <b>Current Release (1.0.0)</b> 
+</h2>
+<ul>
+  <li><a href"https://joinup.ec.europa.eu/solution/elis/release/v100"> Joinup Page</a> </li>
+<li>ELIS release components:
+<li>ELIS catalogue v1.0.0 BETA.ttl</li>
+<li>ELIS catalogue v1.0.0 BETA.xlsx</li>
+<li>ELIS Interoperability Specification Domain Type v1.0.0</li>
+<li>ELIS CSSV Entity Type v1.0.0</li>
+<li>EIRA v3.0.0 SKOS</li>
+<li>ELIS Overview v1.0.0</li>
+<li>CAMSS Info Package v4.0.0</li>
+  <li>ELIS Factsheets </li>
+<li>ELIS Release Notes v1.0.0</li>
+<li>EUPL License v1.2</li>
+<li>ELIS v1.0.0 Release</li>
+</ul>
 
-1. [ELIS Joinup page](https://joinup.ec.europa.eu/solution/elis)
-2. ELIS release components:
-* [ELIS catalogue v1.0.0 BETA.ttl](https://github.com/isa-camss/ELIS/blob/master/ELIS_catalogue_v1.0.0_BETA.ttl)
-* [ELIS catalogue v1.0.0 BETA.xlsx](https://github.com/isa-camss/ELIS/blob/master/ELIS%20v1.0.0%20BETA.xlsx)
-* [ELIS Interoperability Specification Domain Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_InteroperabilitySpecificationDomainType_v1.0.0.ttl)
-* [ELIS MIME Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_MIMEType_v1.0.0.ttl)
-* [ELIS CISSV Entity Type v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_CISSV_EntityType_v1.0.0.ttl)
-* [EIRA v3.0.0 SKOS](https://github.com/isa-camss/ELIS/blob/master/EIRA_v3_0_0_SKOS.rdf)
-* [ELIS Overview v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_Overview_v1.0.0.pdf)
-* [CAMSS Info Package v3.0.0](https://github.com/isa-camss/ELIS/blob/master/CAMSS_info_package_v3.0.0.pdf)
-* [ELIS Release Notes v1.0.0](https://github.com/isa-camss/ELIS/blob/master/ELIS_Release_Notes_v1.0.0.pdf)
-* [EUPL License v1.2](https://github.com/isa-camss/ELIS/blob/master/EUPL%20v1.2.pdf)
-* [ELIS v1.0.0 BETA Release](https://github.com/isa-camss/ELIS/blob/master/ELIS_v1.0.0_BETA_Release.zip)
   
