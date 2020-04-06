@@ -1,0 +1,59 @@
+@prefix : <https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cissv-ap#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cissv-ap#> .
+
+<https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/eiraviews#> rdf:type owl:Ontology ;
+                                                                                 owl:versionIRI <https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cissv-ap#> .
+
+#################################################################
+#    Individuals
+#################################################################
+
+:CISSV-AP rdf:type owl:NamedIndividual ,
+                            skos:ConceptScheme ;
+                            skos:prefLabel "Core Interoperability Standards and Specifications Vocabulary" ;
+                            skos:definition "The entities defining the main concepts needed to configure a set of interoperability specification profiles."@en .
+
+:InteroperabilitySpecification rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Interoperability Specification" ;
+                            skos:definition "An Interoperability Specification is a document containing agreed normative statements for Solution Building Blocks used in an information exchange context. It can refer to existing standards or specifications (EIRA)."@en ;
+                            skos:inScheme :CISSV-AP .
+
+:InteroperabilitySpecificationDomain rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Interoperability Specification Domain" ;
+                            skos:definition "Use case of a set of interoperability specifications. Domains in EIRA CISSV-AP will be in a business agnostic context and they are a design decision."@en ;
+                            skos:inScheme :CISSV-AP .                
+                            
+:InteroperabilitySpecificationConfiguration rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Interoperability Specification Configuration" ;
+                            skos:definition "Set of Interoperability Application Profiles of an Interoperability Specification."@en ;
+                            skos:inScheme :CISSV-AP .
+
+:InteroperabilitySpecificationConfigurationComponent rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Interoperability Specification Configuration Component" ;
+                            skos:definition "Element that is part of an Interoperability Specification Configuration."@en ;
+                            skos:inScheme :CISSV-AP . 
+
+:InteroperabilityApplicationProfile rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Interoperability Application Profile" ;
+                            skos:definition "Extension and customization of a standard for its implementation together with other standards."@en ;
+                            skos:inScheme :CISSV-AP .
+                            
+:Standard rdf:type owl:NamedIndividual ,
+                            skos:Concept ;
+                            skos:prefLabel "Standard" ;
+                            skos:definition "Document that provides requirements, specifications, guidelines or characteristics that can be used consistently to ensure that materials, products, processes and services are fit for their purpose (ISO)."@en ;
+                            skos:inScheme :CISSV-AP .                              
+                                                              
