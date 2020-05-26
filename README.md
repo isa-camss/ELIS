@@ -21,9 +21,9 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 <li>ELIS CSSV Entity Type v1.0.0</li>
 <li>EIRA v3.0.0 SKOS</li>
 <li>ELIS Overview v1.0.0</li>
-<li>CAMSS Info Package v4.0.0</li>
+<li>CAMSS Info Package v5.0.0</li>
   <li>ELIS Factsheets </li>
-<li>ELIS Release Notes v1.0.0</li>
+<li>ELIS v1.0.0 Release Notes</li>
 <li>EUPL License v1.2</li>
 <li>ELIS v1.0.0 Release</li>
 </ul>
