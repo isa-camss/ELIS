@@ -1,0 +1,106 @@
+@prefix : <http://data.europa.eu/w21/dfba1169-806f-4c9e-a42e-a5c5830a2221#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix cav: <http://data.europa.eu/w21/2c930c7b-5e2f-4954-8522-bd3411339d6c#> .
+@prefix dct: <http://purl.org/dc/terms#> .
+@prefix dom: <http://data.europa.eu/w21/f06cf505-23f2-4760-a5f5-c9cff74564f3> .
+@prefix dr8: <http://data.europa.eu/dr8#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix cssv: <http://data.europa.eu/w21/e1f84ab1-bad6-4e95-b37a-e54ba7dfc551#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@base <http://data.europa.eu/w21/dfba1169-806f-4c9e-a42e-a5c5830a2221#> .
+
+<http://data.europa.eu/w21/dfba1169-806f-4c9e-a42e-a5c5830a2221#> rdf:type owl:Ontology ;
+                                                                   <http://purl.org/dc/terms/modified> "2020-02-12T17:22:44.688+01:00"^^xsd:dateTime .
+																
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.w3.org/ns/dcat#CatalogRecord
+dcat:CatalogRecord rdf:type owl:Class ;
+                   rdfs:subClassOf owl:Thing ;
+                   <http://purl.org/dc/terms/created> "2019-12-18T15:07:04.660+01:00"^^xsd:dateTime ;
+                   <http://purl.org/dc/terms/modified> "2020-02-06T11:43:20.031+01:00"^^xsd:dateTime ;
+                   rdfs:comment "A record in a data catalog, describing the registration of a single dataset or data service."@en ;
+                   rdfs:label "Catalog Record"@en .
+
+
+###  http://www.w3.org/ns/dcat#Dataset
+dcat:Dataset rdf:type owl:Class ;
+             rdfs:subClassOf dcat:Resource ;
+             <http://purl.org/dc/terms/created> "2019-12-18T15:10:00.851+01:00"^^xsd:dateTime ;
+             <http://purl.org/dc/terms/modified> "2020-02-06T11:40:47.881+01:00"^^xsd:dateTime ;
+             rdfs:comment "A collection of data, published or curated by a single source, and available for access or download in one or more represenations."@en ;
+             rdfs:label "Dataset"@en .
+
+
+###  http://www.w3.org/ns/dcat#Distribution
+dcat:Distribution rdf:type owl:Class ;
+                  rdfs:subClassOf owl:Thing ;
+                  <http://purl.org/dc/terms/created> "2019-12-18T15:09:00.102+01:00"^^xsd:dateTime ;
+                  <http://purl.org/dc/terms/modified> "2020-02-20T17:06:01.775+01:00"^^xsd:dateTime ;
+                  rdfs:comment "A specific representation of a dataset. A dataset might be available in multiple serializations that may differ in various ways, including natural language, media-type or format, schematic organization, temporal and spatial resolution, level of detail or profiles (which might specify any or all of the above)."@en ;
+                  rdfs:label "Distribution"@en .
+
+
+###  http://www.w3.org/ns/dcat#Resource
+dcat:Resource rdf:type owl:Class ;
+              rdfs:subClassOf owl:Thing ;
+              <http://purl.org/dc/terms/created> "2019-12-18T15:09:26.832+01:00"^^xsd:dateTime ;
+              <http://purl.org/dc/terms/modified> "2020-02-06T11:41:58.512+01:00"^^xsd:dateTime ;
+              rdfs:comment "Resource published or curated by a single agent."@en ;
+              rdfs:label "Resource"@en .
+
+
+###  https://joinup.ec.europa.eu//collection/elis/1.0.0/refdata/cav#Assessment
+cav:Assessment rdf:type owl:Class ;
+               rdfs:subClassOf dcat:Dataset ;
+               <http://purl.org/dc/terms/modified> "2020-02-21T13:09:41.158+01:00"^^xsd:dateTime ;
+               rdfs:comment "The intellectual work to evaluate an asset against the criteria of a given scenario."@en ;
+               rdfs:label "Assessment"@en .
+
+
+###  https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cssv#ApplicationProfile
+cssv:ApplicationProfile rdf:type owl:Class ;
+                        rdfs:subClassOf cssv:Specification ;
+                        <http://purl.org/dc/terms/created> "2019-12-18T15:11:18.162+01:00"^^xsd:dateTime ;
+                        <http://purl.org/dc/terms/modified> "2020-02-06T11:33:54.283+01:00"^^xsd:dateTime ;
+                        rdfs:comment "An application profile \"customises one or more existing specifications potentially for a given use case or a policy domain adding an end to end narrative describing and ensuring the interoperability of its underlying specification(s)\"."@en ;
+                        rdfs:label "Application Profile"@en .
+
+
+###  https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cssv#Family
+cssv:Family rdf:type owl:Class ;
+            rdfs:subClassOf cssv:Specification ;
+            <http://purl.org/dc/terms/created> "2019-12-18T15:11:28.440+01:00"^^xsd:dateTime ;
+            <http://purl.org/dc/terms/modified> "2020-02-06T11:35:55.255+01:00"^^xsd:dateTime ;
+            rdfs:comment "A Family is a collection of interrelated and/or complementary specifications, standards or application profiles and the explanation of how they are combined, used or both."@en ;
+            rdfs:label "Family"@en .
+
+
+###  https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cssv#Specification
+cssv:Specification rdf:type owl:Class ;
+                   rdfs:subClassOf dcat:Dataset ;
+                   <http://purl.org/dc/terms/created> "2019-12-18T15:10:39.714+01:00"^^xsd:dateTime ;
+                   <http://purl.org/dc/terms/modified> "2020-02-06T11:26:31.026+01:00"^^xsd:dateTime ;
+                   rdfs:comment "Set of agreed, descriptive and normative statements about how a specification should be designed or made."@en ;
+                   rdfs:label "Specification"@en .
+
+
+###  https://joinup.ec.europa.eu/collection/elis/1.0.0/refdata/cssv#Standard
+cssv:Standard rdf:type owl:Class ;
+              rdfs:subClassOf cssv:Specification ;
+              <http://purl.org/dc/terms/created> "2019-12-18T15:11:05.176+01:00"^^xsd:dateTime ;
+              <http://purl.org/dc/terms/modified> "2020-02-06T11:38:44.654+01:00"^^xsd:dateTime ;
+              rdfs:comment "Specification that is largely adopted and possibly endorsed."@en ;
+              rdfs:label "Standard"@en .
+
