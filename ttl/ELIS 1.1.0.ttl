@@ -337,6 +337,7 @@ cssvrsc:83029c1942003f745fc003db4e52e42eaa99a8a487fbff5c6971641e10e522e7 a cssv:
  - European Competency Framework (The European Union's European e-Competence Framework (e-CF) """@en;
   dct:description "This document provides a reference of 41 competences as required and applied at the Information and Communication Technology (ICT) professional work environment, using a common language for competences, skills and proficiency levels that can be understood across Europe. This document was created for application by: - ICT service, user and supply companies, - ICT professionals, managers and human resource (HR) departments, - vocational education institutions and training bodies including higher education, - social partners (trade unions and employer associations), professional associations, accreditation, validation and assessment bodies, - market analysts and policy makers, and other organizations and stakeholders in public and private sectors."@en;
   dct:relation eira:InteroperabilitySkill;
+  dcat:theme "Domain-agnostic"@en;
   dct:creator "CEN"@en;
   dcat:distribution cssvrsc:99010c83-bb38-4143-82ce-3b924849e76c;
   dcat:landingPage "https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:67073,1218399&cs=1A148766F9EC80CBD3340728E3B8BB892" .
@@ -3841,6 +3842,7 @@ cssvrsc:2e9ad667fb96d75ccde3ffa54ac9816ac844d0d85f09817f9ff0aafd7f0c009f a cssv:
   dct:title "Skills Framework for the Information Age (SFIA) "@en;
   dct:description "Skills Framework for the Information Age (SFIA)  is a model for describing and managing skills and competencies for professionals working in Information and Communication Technologies (ICT), software engineering and digital transformation."@en;
   dct:relation eira:InteroperabilitySkill;
+  dcat:theme "Domain-agnostic"@en;
   dct:creator "The SFIA Foundation"@en;
   dcat:distribution cssvrsc:7d490862-f856-45f8-81c6-8ab04c21a767;
   dcat:landingPage "www.sfia-online.org " .
