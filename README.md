@@ -9,7 +9,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 ## Relevant Documentation
 <h2>
-  <b>Current Release (1.0.0)</b> 
+  <b>Current Release (1.1.0)</b> 
 </h2>
 
 <i>ELIS release components </i>
