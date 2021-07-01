@@ -337,12 +337,12 @@ cssvrsc:83029c1942003f745fc003db4e52e42eaa99a8a487fbff5c6971641e10e522e7 a cssv:
  - European Competency Framework (The European Union's European e-Competence Framework (e-CF) """@en;
   dct:description "This document provides a reference of 41 competences as required and applied at the Information and Communication Technology (ICT) professional work environment, using a common language for competences, skills and proficiency levels that can be understood across Europe. This document was created for application by: - ICT service, user and supply companies, - ICT professionals, managers and human resource (HR) departments, - vocational education institutions and training bodies including higher education, - social partners (trade unions and employer associations), professional associations, accreditation, validation and assessment bodies, - market analysts and policy makers, and other organizations and stakeholders in public and private sectors."@en;
   dct:relation eira:InteroperabilitySkill;
-  
+  dcat:theme "Domain-agnostic"@en;
   dct:creator "CEN"@en;
   dcat:distribution cssvrsc:99010c83-bb38-4143-82ce-3b924849e76c;
   dcat:landingPage "https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:67073,1218399&cs=1A148766F9EC80CBD3340728E3B8BB892" .
-  dcat:theme "Domain-agnostic"@en;
-  cssvrsc:99010c83-bb38-4143-82ce-3b924849e76c a dcat:Distribution;
+
+cssvrsc:99010c83-bb38-4143-82ce-3b924849e76c a dcat:Distribution;
   dcat:accessURL "https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:67073,1218399&cs=1A148766F9EC80CBD3340728E3B8BB892";
   dcat:downloadURL "https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:67073,1218399&cs=1A148766F9EC80CBD3340728E3B8BB892" .
 
