@@ -270,8 +270,8 @@ cssvrsc:282fbf529fb851a9da3ed39f48d235c69fd1da93947dfd668889fb8191777920 a cssv:
   dcat:theme "Strategy"@en, "Application"@en;
   dct:creator "Publications Office of the European Union"@en;
   dcat:distribution cssvrsc:c3340bd9-267c-4c87-b657-c7ea0901eddd;
-  dcat:landingPage "https://op.europa.eu/en/web/eu-vocabularies/eli   
-https://ec.europa.eu/isa2/solutions/european-legislation-identifier-eli_en"^^xsd:anyURI,
+  dcat:landingPage "https://op.europa.eu/en/web/eu-vocabularies/eli"^^xsd:anyURI,   
+    "https://ec.europa.eu/isa2/solutions/european-legislation-identifier-eli_en"^^xsd:anyURI,
     "https://op.europa.eu/en-GB/web/eu-vocabularies/model/-/resource/dataset/eli"^^xsd:anyURI .
 
 cssvrsc:c3340bd9-267c-4c87-b657-c7ea0901eddd a dcat:Distribution;
@@ -4464,8 +4464,7 @@ cssvrsc:9826ad49-d83f-4e79-899a-745848a9b6c0 a dcat:Distribution;
 
 elis:3c74b9e8-4b06-4517-b20d-d18b5859853c a dcat:CatalogRecord;
   foaf:primaryTopic cssvrsc:1248c7f13709f43008360e6a192b38fb298857005459667f8d2d69c0cb3e0688;
-  dct:title "Electronic Signatures and Infrastructures (ESI); Registered Electronic Mail (REM);
-Part 2: Data requirements, Formats and Signatures for REM (ETSI TS 102 640-2)"@en .
+  dct:title "Electronic Signatures and Infrastructures (ESI); Registered Electronic Mail (REM); Part 2: Data requirements, Formats and Signatures for REM (ETSI TS 102 640-2)"@en .
 
 cssvrsc:1248c7f13709f43008360e6a192b38fb298857005459667f8d2d69c0cb3e0688 a cssv:Specification;
   dct:title "Electronic Signatures and Infrastructures (ESI); Registered Electronic Mail (REM); Part 2: Data requirements, Formats and Signatures for REM (ETSI TS 102 640-2)"@en;
