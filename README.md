@@ -9,12 +9,12 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 ## Relevant Documentation
 <h2>
-  <b>Current Release (1.1.0)</b> 
+  <b>Current Release (5.0.1)</b> 
 </h2>
 
 <i>ELIS release components </i>
 
-The release components that can be seen above are being developed to generate the ELIS 1.1.0, which is a bugfix version that will be aligned with CarTool 4.0.0. The list below shows the release components that will be part of 1.1.0. 
+The release components that can be seen above are being developed to generate the ELIS 5.0.1. The list below shows the release components that will be part of 5.0.1. 
 
 <ul>
   <li>ELIS v5.0.1.ttl</li>
