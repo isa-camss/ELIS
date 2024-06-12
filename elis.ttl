@@ -1595,7 +1595,7 @@ cssvrsc:0046834e1507afcd215d2fb7801a4b53ed42dc81f370944e96c13738ac1ee102 a cssv:
         [ dct:description "Business agnostic legal act defining milestones, goals and obligations involving interoperability aspects in a specific national context."@en ;
             dct:relation eira:NationalLegalActRequirement ] .
 
-cssvrsc:009448f391ffc456adcd392a2317e940f7b8d3393bf5e6df0a52c3f1e8aedc50 a cssv:Specification ;
+cssvrsc:009448f391ffc456adcd392a2317e940f7b8d3393bf5e6df0a52c3f1e8aedc50 a cssv:Standard ;
     dct:relation [ dct:description "The Framework for Multicast in Network Virtualization over Layer 3 covers network services that require multicast or broadcast delivery, such as network funtion instances in the data plane."@en ;
             dct:relation eira:VirtualPrivateNetworkTechnologyService ] .
 
@@ -1673,7 +1673,7 @@ cssvrsc:0762f422b839ba0815430c77fcc3b4174a97f4970951be420c596a524d0c0a08 a cssv:
         [ dct:description "The eDelivery BDXL retrieves a URL and together with the HTTPS protocol supports server authentication."@en ;
             dct:relation eira:AccessManagementApplicationService ] .
 
-cssvrsc:088ecda1c81a62bb73536c28835ab1a3225e9e609308950756ff65847197344d a cssv:Specification ;
+cssvrsc:088ecda1c81a62bb73536c28835ab1a3225e9e609308950756ff65847197344d a cssv:Standard ;
     dct:relation [ dct:description "XSLT metadata enable any source document to be processed with the adequate schema, which might be held in a system catalog or repository."@en ;
             dct:relation eira:MetadataCatalogueDataObject ],
         [ dct:description "XSLT provides template rules that allow the reuse of transformed information between information systems."@en ;
@@ -1752,7 +1752,7 @@ cssvrsc:0cbd98b34587df9ae6f011ed9513b8bf30b04bb840c1b97407d2741f99457940 a cssv:
     dct:relation [ dct:description "The BIS eDocuments guide for pre-award provides transport specifications, such as the description of the envelope, the use of a container to package documents and signature requirements. The specification is currently in use by the PEPPOL Business Interoperability Specification (BIS) (https://docs.peppol.eu/pracc/profiles/p003/index.html)."@en ;
             dct:relation eira:DigitalSolutionApplicationService ] .
 
-cssvrsc:0e12967520ef4b68bb5fb857177827c0094abca637175e68a0a09bd24130694c a cssv:Specification ;
+cssvrsc:0e12967520ef4b68bb5fb857177827c0094abca637175e68a0a09bd24130694c a cssv:Family ;
     dct:relation [ dct:description "The Provenance (PROV) family of specifications provides an interoperable conceptual data model (PROV-DM), well documented for instantiating the provenance within the web and mapping users' provenance to other conceptual models (PROV-Links, the Linking Across Provenance Bundles specification) or schemas (PROV-DC, the Dublin Core to PROV Mapping)."@en ;
             dct:relation eira:OntologyDataObject ],
         [ dct:description "The Provenance (PROV) family of specifications provides a conceptual data model (PROV-DM), complemented by additional specifications, such as the PROV Data Model Semantics (PROV-SEM) and the Linking Across Provenance Bundles (PROV-Links) specification for connecting sets of provenance descriptors."@en ;
@@ -1800,7 +1800,7 @@ cssvrsc:1248c7f13709f43008360e6a192b38fb298857005459667f8d2d69c0cb3e0688 a cssv:
     dct:relation [ dct:description "The present European Standards provides guidelines for Registered E-Mail services which role is to provide users, in addition to the usual services supplied by the ordinary e-mail service providers, with a set of evidence suitable to uphold assertions of acceptance (i.e. of \"shipment\"), of delivery/non delivery, of receipt, etc. of e-mails sent/delivered through such service."@en ;
             dct:relation eira:RegisteredElectronicDeliveryApplicationService ] .
 
-cssvrsc:13a8f29ba149c2a24b86b7773c1a3019595a5d9cece88aca54c8cfd23280d0f9 a cssv:Specification ;
+cssvrsc:13a8f29ba149c2a24b86b7773c1a3019595a5d9cece88aca54c8cfd23280d0f9 a cssv:Standard ;
     dct:relation [ dct:description "JSON Schema defines a data syntax that enables users to represent data in a schematised manner."@en ;
             dct:relation eira:KnowledgeRepresentation ],
         [ dct:description "JSON Schema enables systems to encode and store data in a JSON-structured manner."@en ;
@@ -1828,7 +1828,7 @@ cssvrsc:15ae1741b374a39c38c277daf407d1938175219d283b93905f3ad0cf403c19f8 a cssv:
     dct:relation [ dct:description "Codelists used for the description of eDelivery transactions."@en ;
             dct:relation eira:BaseRegistryDataObject ] .
 
-cssvrsc:16457b5ee8e1e504f1cdfe408e09993336b9480b1cf53f4a38b320aeeab94814 a cssv:Specification ;
+cssvrsc:16457b5ee8e1e504f1cdfe408e09993336b9480b1cf53f4a38b320aeeab94814 a cssv:Standard ;
     dct:relation [ dct:description "The standard puts more emphasis on procedures for the ongoing monitoring and evaluation of controls."@en ;
             dct:relation eira:PrivacyFrameworkBusinessObject ],
         camssa:bda8be94d4758fb6c0288312faa31f14cbe930ab37957458e49cb0c6333bb74d .
@@ -2061,7 +2061,7 @@ cssvrsc:2a7a035c6f663d12152d8b3d42b0d3f7c014d1d4ff98f60cdf71911b25d9d53f a cssv:
         [ dct:description "The Confidentiality Metadata Label Syntax provides a confidentiality label scheme as sets of values that supports different security policies."@en ;
             dct:relation eira:DataSyntaxMappingCatalogueDataObject ] .
 
-cssvrsc:2a8d11054390e9202db664920d2fb0ddb1a28c805e5d1d96a24c081fa6cb349d a cssv:Specification ;
+cssvrsc:2a8d11054390e9202db664920d2fb0ddb1a28c805e5d1d96a24c081fa6cb349d a cssv:Standard ;
     dct:relation [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of CAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
             dct:relation eira:E-SignatureCreationApplicationService ],
         [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of CAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
@@ -2261,7 +2261,7 @@ cssvrsc:350f664c3a296c395f02e518a6dafddae066c02e70f859810f86c942a758ac1a a cssv:
     dct:relation [ dct:description "The spec is a common an strategic agreed framework for the improvement of ICT environments including the interoperability."@en ;
             dct:relation eira:InteroperabilityStrategyGoal ] .
 
-cssvrsc:3526d24a58cc58455e572d0bb81fd86acafcdad3df8f17788a72f60f8a14c423 a cssv:Specification ;
+cssvrsc:3526d24a58cc58455e572d0bb81fd86acafcdad3df8f17788a72f60f8a14c423 a cssv:Family ;
     dct:relation [ dct:description "The ISMS family of standards enables organisations to develop and implement a framework for managing the security of their information assets, including financial information, intellectual property and employee data, or any other information from data consumers."@en ;
             dct:relation eira:SecurityFrameworkBusinessObject ],
         [ dct:description "The ISMS family of standards is a series of standards for managing the security of their information assets, defined as sets of requirements around security concerns which can be used by a management system for auditing purposes."@en ;
@@ -2269,7 +2269,7 @@ cssvrsc:3526d24a58cc58455e572d0bb81fd86acafcdad3df8f17788a72f60f8a14c423 a cssv:
         [ dct:description "Using the ISMS family of standards, organizations can develop and implement a framework for managing the security of their information assets, including financial information, intellectual property and employee data, or information that customers or third parties entrust to them."@en ;
             dct:relation eira:AgreementOnInteroperabilitySecurityContract ] .
 
-cssvrsc:356b06eaeb0797b4d35e627c84d00bc3de5d72ebfb51f720b77bd4a5548e2704 a cssv:Specification ;
+cssvrsc:356b06eaeb0797b4d35e627c84d00bc3de5d72ebfb51f720b77bd4a5548e2704 a cssv:Standard ;
     dct:relation [ dct:description "CSV is a simple format for representing a rectangular array (matrix) of numeric and textual values."@en ;
             dct:relation eira:DataRepresentation ],
         [ dct:description "CSV is a simple format for representing a rectangular array (matrix) of numeric and textual values."@en ;
@@ -2461,7 +2461,7 @@ cssvrsc:485408399b7aa98aa3d1622ae2ca8e34ef5803bca01a4d696b63fff17d7dc8aa a cssv:
         [ dct:description "The Peppol Policy for the use of identifiers prescribes how the Service Metadata Publisher (SMP) publishes any service defined for the receiving participant and how this identifier (the participant identifier) is established, retrieved and delivered in a Peppol implementation of the e-Delivery Network."@en ;
             dct:relation eira:MetadataManagementApplicationService ] .
 
-cssvrsc:4909c79d2759fc5cdbd6e87160f397452ee9484bd8d9e9bf838be385108c987c a cssv:Specification ;
+cssvrsc:4909c79d2759fc5cdbd6e87160f397452ee9484bd8d9e9bf838be385108c987c a cssv:Standard ;
     dct:relation [ dct:description "The ISO/IEC 27000 family of standards helps organizations keep information assets secure."@en ;
             dct:relation eira:SecurityFrameworkBusinessObject ],
         camssa:92b49a4322c2ed1be0313bd366752cc6e7f76dea41127319c7129fb7d59f1fe1 .
@@ -2606,7 +2606,7 @@ cssvrsc:51d1925c43d21238f4015a77a657691d3e21c5cbaaf8e8188bb3754e752b5161 a cssv:
     dct:relation [ dct:description "RapidIO includes a wide range of features, including high data bandwidth, low latency capability and support for high performance I/O devices, as well as providing globally shared memory, message passing and software managed programming models."@en ;
             dct:relation eira:DistributedFileSystemTechnologyService ] .
 
-cssvrsc:54449cd9f114c21c9c63bdbfb8d0f8b62272ad593058521d17f28ee7988f5901 a cssv:Specification ;
+cssvrsc:54449cd9f114c21c9c63bdbfb8d0f8b62272ad593058521d17f28ee7988f5901 a cssv:Standard ;
     dct:relation [ dct:description "Schematron is a rule-based validation language used by data validations services/components for the validation of XML trees."@en ;
             dct:relation eira:DataQualityApplicationService ],
         [ dct:description "Schematron is a rule-based validation language used by data validations services/components for the validation of XML trees."@en ;
@@ -2711,7 +2711,7 @@ cssvrsc:5f129c4a4681c4dedd2a0743ebe10d477c0ebd4267bd3ea08b74f19fae6d926d a cssv:
         [ dct:description "MyData Authorisation allows the user to validate a data request coming from a third-party system in order to authorise its transfer and processing within a service. The authorisation can only take place after the service has been linked to the user's single point of identification."@en ;
             dct:relation eira:FederatedIdentityProviderTechnologyService ] .
 
-cssvrsc:5f292fa8e0067a1dee4441423e6ee81e54497c284bf60e990c8dcbc9833d46bc a cssv:Specification ;
+cssvrsc:5f292fa8e0067a1dee4441423e6ee81e54497c284bf60e990c8dcbc9833d46bc a cssv:Standard ;
     dct:relation [ dct:description "HR-XML and HR-JSON specifications defines a vocabulary for the classification and description of jobs, and persons (e.g., EURES)."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
         [ dct:description "HR-XML and HR-JSON specifications define a vocabulary for the classification and description of jobs, and persons. The Portal EURES is conformant with HR Open Standards: e.g., EURES uses web services to query national databases and provide all the available opportunities."@en ;
@@ -2766,7 +2766,7 @@ cssvrsc:65b67ca6bf1de17747001ce01a8f19e868d80d2b9200012393bb6dc9671fbb71 a cssv:
         [ dct:description "XKOS defines machine-readable statistical classifications and other concept management systems as SKOS instances for the representation of statistical classifications."@en ;
             dct:relation eira:KnowledgeRepresentation ] .
 
-cssvrsc:67b54613c5b523c5dd115156c625ea64601ef0ed0732d91b3008f24a86f2a6b3 a cssv:Specification ;
+cssvrsc:67b54613c5b523c5dd115156c625ea64601ef0ed0732d91b3008f24a86f2a6b3 a cssv:Standard ;
     dct:relation [ dct:description "The use of IPSec TM for VPNs, described in the Internet draft draft-ietf-ipsec-dhcp-13.txt, has been approved as an IETF Proposed Standard. It tunnels traffic, preserving the end-to-end semantics of the communications it is carrying. The trust model is defined as part of the IETF standard using either standard X.509 certificates or preshared keys. The standard supports both dynamic and static addressing. IPSec TM is appropriate for site-to-site VPN connections and has been demonstrated to be interoperable by Microsoft, Cisco, Nortel, and others. There is no standard for legacy user authentication within IPSec TM, which makes it unsuitable for use in remote access. It is implemented by most VPN gateways. There have been many public interoperability demonstrations and customer deployments using real products."@en ;
             dct:relation eira:VirtualPrivateNetworkTechnologyService ] .
 
@@ -2988,7 +2988,7 @@ cssvrsc:835a37b6f8f926c2c1b50b623f2fcd833ecb87d7e6b85b3b1732b4766bbadf8f a cssv:
             dct:relation eira:OntologiesCatalogueDataObject ],
         camssa:9335c5e8798b120ef158f5adb29dab1c835018997d1776a8790679c258bd2f79 .
 
-cssvrsc:83adcfe7fd6d09d1d78d43905709f9566f30e9378e845fa0e04c258537c153e4 a cssv:Specification ;
+cssvrsc:83adcfe7fd6d09d1d78d43905709f9566f30e9378e845fa0e04c258537c153e4 a cssv:ApplicationProfile ;
     dct:relation [ dct:description "Vocabulary used for the description of dataset catalogues Metadata, semantics & ontologies, interoperability"@en ;
             dct:relation eira:LinkedDataRepresentation ],
         [ dct:description "Vocabulary used for the description of dataset catalogues Metadata, semantics & ontologies, interoperability"@en ;
@@ -3022,7 +3022,7 @@ cssvrsc:844a9f33532b78144bb6f037efcfd10e05ba0e751b89bad502062c993192b154 a cssv:
     dct:relation [ dct:description "The Digital Europa Thesaurus (DET) is a multilingual thesaurus covering the main subject matters of the European Commission's public communications."@en ;
             dct:relation eira:ControlledVocabularyDataObject ] .
 
-cssvrsc:84a1c8b0d4ee9f8d53a50e8529a99516c5f79ba2728b0784d8e2108fa849a0de a cssv:Specification ;
+cssvrsc:84a1c8b0d4ee9f8d53a50e8529a99516c5f79ba2728b0784d8e2108fa849a0de a cssv:Standard ;
     dct:relation [ dct:description "IEEE 7001 provides measurable and verifiable levels of transparency of autonomous systems that can improve business decision-making, optimize business processes, and drive innovation."@en ;
             dct:relation eira:DataAnalyticsApplicationComponent ],
         [ dct:description "IEEE 7001 provides measurable and verifiable levels of transparency of autonomous systems that can improve business decision-making, optimize business processes, and drive innovation."@en ;
@@ -3076,7 +3076,7 @@ cssvrsc:89b586243efc375b64830c6b29be46357c67975d881a7612e648e783a8f3d030 a cssv:
         camssa:72c899d90182948bda44c000e3f74cdc46233325511ab6c2a6212e861520c64a,
         camssa:fd84864d1f3f4a90d7db942de7b090a34cc11153a0d121dc7f41c44bd6c8549d .
 
-cssvrsc:89c360d073560b627db7529a0b2b9af5bbc1983342c3ba9498faba662f136993 a cssv:Specification ;
+cssvrsc:89c360d073560b627db7529a0b2b9af5bbc1983342c3ba9498faba662f136993 a cssv:Standard ;
     dct:relation [ dct:description "UN/EDIFACT syntax version 4 provides a set of controlled vocabularies for the digital message systems within a supply chain service."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
         [ dct:description "The standard provides sets of messages, their properties and the relationships among them, which focus at formally representing data interchange for administration, commerce and transport."@en ;
@@ -3100,7 +3100,7 @@ cssvrsc:8c25fc22b6b6f1ff9ac5f698258c1bac7ea63c99f2f818130b7933f25f8cafa7 a cssv:
         [ dct:description "Linked Data Event Streams allow to replicate all of their items and stay synchronised when items are added in the form of subject-predicate-object triplets."@en ;
             dct:relation eira:KnowledgeTriplestore ] .
 
-cssvrsc:8d8a9063977269b9511a82b8c6e20a2fb19da720bde0b3e6d37175b3a9945737 a cssv:Specification ;
+cssvrsc:8d8a9063977269b9511a82b8c6e20a2fb19da720bde0b3e6d37175b3a9945737 a cssv:Standard ;
     dct:relation [ dct:description "This specification defines a set of competences for the ICT professionals in the context of the European Competency Framework. Therefore, it defines a set of elements that can be considered also interoperability skills."@en ;
             dct:relation eira:InformationBusinessObject ],
         camssa:fce7b05e4f0e7b158fee58e08c16ac38e8c01b00d8df86a3a6fe8b3dc6303efa .
@@ -3175,7 +3175,7 @@ cssvrsc:911dd53b0e88453103076c7fc81be239e33d5df3cc474c912549453b1666e4e4 a cssv:
         [ dct:description "DKIM defines a message-level signing and verification mechanism for email, allowing an organization to assume control of a message that is in transit. The organisation is a handler of the message, either as its originator or as an intermediary."@en ;
             dct:relation eira:DataExchangeApplicationComponent ] .
 
-cssvrsc:921d8e57de77fca8f754a5ffecfa81a553b655d9f408c8630821ddd83eb4b6b0 a cssv:Specification ;
+cssvrsc:921d8e57de77fca8f754a5ffecfa81a553b655d9f408c8630821ddd83eb4b6b0 a cssv:Family ;
     dct:relation [ dct:description "SHA-3 encode a message by producing an output bit stream from a binary sequence, using encoding hash functions."@en ;
             dct:relation eira:HashCodeDataObject ],
         [ dct:description "SHA-3 encode a message by producing an output bit stream from a binary sequence."@en ;
@@ -3297,7 +3297,7 @@ cssvrsc:99e59a3cac7e8d0300e4f19f439afce1f1a1aa6558a6ce046cd2656dc04e85be a cssv:
             dct:relation eira:DataExchangeApplicationService ],
         camssa:94b52b30113447aa6dd02ce6fbe1210e7195520d55a08f6dc7da784a67e71d9c .
 
-cssvrsc:9a00bf19c66c10bfe72f81071aab316a8b092b226d20c947f993c8a678fd0ad9 a cssv:Specification ;
+cssvrsc:9a00bf19c66c10bfe72f81071aab316a8b092b226d20c947f993c8a678fd0ad9 a cssv:Family ;
     dct:relation [ dct:description "Peppol eDelivery Network Specifications implements a standardised technical transport layer for data exchange in an e-delivery context."@en ;
             dct:relation eira:PrivateSubnetworkCommunicationNetwork ],
         [ dct:description "Peppol eDelivery Network Specifications implements a standardised technical transport layer for data exchange."@en ;
@@ -3585,13 +3585,13 @@ cssvrsc:b0a05545c0048197990e8a61fabf6254252ca4be1fc0ac016900b29986329e94 a cssv:
     dct:relation [ dct:description "The FOAF ontology is an ontology to describe people and social relationships. Some FOAF's classes are used to be reused by other vocabularies or initiatives at the European level ensuring the interoperability and the alignment amongst them."@en ;
             dct:relation eira:OntologyDataObject ] .
 
-cssvrsc:b11b9900e431e442fba58c2a7fc26ce7050444e7d77746af3ebdf19197fa70dc a cssv:Specification ;
+cssvrsc:b11b9900e431e442fba58c2a7fc26ce7050444e7d77746af3ebdf19197fa70dc a cssv:Family ;
     dct:relation [ dct:description "Building Blocks are open and reusable digital solutions that support the definition of stable APIs for digital government services."@en ;
             dct:relation eira:APIApplicationInterface ],
         [ dct:description "Building Blocks are open and reusable digital solutions, ensuring that digital services are compatible with other services on the market. Building Blocks are either a framework, a standard, a software, a software as a service (SaaS) or a combination of them."@en ;
             dct:relation eira:MachineToMachineApplicationInterface ] .
 
-cssvrsc:b26387fc43b0be82f50b4dafb39c6371b8eb5efc4ecb6a477c1bbdc4603b61ef a cssv:Specification ;
+cssvrsc:b26387fc43b0be82f50b4dafb39c6371b8eb5efc4ecb6a477c1bbdc4603b61ef a cssv:Standard ;
     dct:relation [ dct:description "The objective of the LegalRuleML TC is to extend RuleML with formal features specific to legal norms, guidelines, policies and reasoning, representing the particularities of the legal normative rules at national and international level."@en ;
             dct:relation eira:NationalLegalActRequirement ],
         [ dct:description "The objective of the LegalRuleML TC is to extend RuleML with formal features specific to legal norms, guidelines, policies and reasoning; that is, the TC defines a standard (expressed with XML-schema and Relax NG) that is able to represent the particularities of the legal normative rules with a rich, articulated, and meaningful markup language."@en ;
@@ -3686,7 +3686,7 @@ cssvrsc:b795aae3c1e5f6f40c8620057f5bb757f6b5260900e73387674706022eecce97 a cssv:
         [ dct:description "DITA chunks document content into small self-contained topics, allowing topics to be assembled into help systems or books that require a particular selection and organization of subjects."@en ;
             dct:relation eira:SoftwareComponentsCatalogueDataObject ] .
 
-cssvrsc:b89bf2f2e85adfbce96e08482415575dc845d44067f8ff7dce7c603b41af9cbe a cssv:Specification ;
+cssvrsc:b89bf2f2e85adfbce96e08482415575dc845d44067f8ff7dce7c603b41af9cbe a cssv:Standard ;
     dct:relation [ dct:description "The standard provides sets of messages, their properties and the relationships among them, which focus at formally representing data interchange for administration, commerce and transport."@en ;
             dct:relation eira:DataModelDataObject ],
         [ dct:description "UN/EDIFACT syntax version 3 provides a set of controlled vocabularies for the digital message systems within a supply chain service."@en ;
@@ -3696,7 +3696,7 @@ cssvrsc:b8b311b0f2739e0cc32af32a91b5913e852ed565cf319a4eceb58898e3f50a9c a cssv:
     dct:relation [ dct:description "Solid allows users to maintain their autonomy, control their data and privacy, and gives them the flexibility to choose which applications and services to use their data in."@en ;
             dct:relation eira:DataSpaceApplicationService ] .
 
-cssvrsc:b8ed390470bf8ebbbf573f68a7e7bb80643b7e4ccad211857b531e53ec489616 a cssv:Specification ;
+cssvrsc:b8ed390470bf8ebbbf573f68a7e7bb80643b7e4ccad211857b531e53ec489616 a cssv:Standard ;
     dct:relation [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of XAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
             dct:relation eira:E-SealVerificationAndValidationApplicationService ],
         [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of XAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
@@ -3726,7 +3726,7 @@ cssvrsc:b9cd5c4f17e7b599e3e34669c79a0905121dd66cf1bdeb74f4a4b74e957001df a cssv:
         [ dct:description "The MyData Service Registry specification provides a service registry process along with formed resources for each service."@en ;
             dct:relation eira:RegistrationApplicationService ] .
 
-cssvrsc:baa7200934577ac27c05830d6ed437d7dd40e9e6ea9b5152cbb1f444930b1955 a cssv:Specification ;
+cssvrsc:baa7200934577ac27c05830d6ed437d7dd40e9e6ea9b5152cbb1f444930b1955 a cssv:Standard ;
     dct:relation [ dct:description "The specification consists of a markup language used for structuring and presenting content on the World Wide Web"@en ;
             dct:relation eira:HumanApplicationInterface ],
         [ dct:description "HTML5 is a language in which Web pages are represented."@en ;
@@ -3735,7 +3735,7 @@ cssvrsc:baa7200934577ac27c05830d6ed437d7dd40e9e6ea9b5152cbb1f444930b1955 a cssv:
             dct:relation eira:KnowledgeRepresentation ],
         camssa:54c776d9735c57ef185ba79bc0897fb608614ff954f46963ff645a52ad50f8b2 .
 
-cssvrsc:bb3b3d19c4f26de4a4ff58684fd43f3f2765b85d03198fa9cde5d67f96f7c49a a cssv:Specification ;
+cssvrsc:bb3b3d19c4f26de4a4ff58684fd43f3f2765b85d03198fa9cde5d67f96f7c49a a cssv:Standard ;
     dct:relation [ dct:description "GSBPM provides a common vocabulary and framework to support international collaborative activities. The vocabulary is also in line with GAMSO and GSIM."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
         [ dct:description "GSBPM is to be used for integrating data and metadata standards."@en ;
@@ -3815,7 +3815,7 @@ cssvrsc:c2763403c7bb0d8a33dcf2ff6395747d6597322c9ed74fc9a72d2369dd4b0bcc a cssv:
         [ dct:description "HSTS defines a mechanism that allows websites owners to declare their service accessible only through the HTTP Strict-Transport-Security response header. In practice, the HSTS policy protects the owner's web application against some passive (eavesdropping) and active network attacks by reducing the possibility of intercepting requests and responses between the customer and the web application server."@en ;
             dct:relation eira:SecurityPolicyBusinessObject ] .
 
-cssvrsc:c2835b4bd225a222097f1a15b749419e91025408327b8b4acabeaa458f4e9f26 a cssv:Specification ;
+cssvrsc:c2835b4bd225a222097f1a15b749419e91025408327b8b4acabeaa458f4e9f26 a cssv:Standard ;
     dct:relation [ dct:description "Rationale not found"@en ;
             dct:relation eira:MachineToMachineApplicationInterface ] .
 
@@ -3928,7 +3928,7 @@ cssvrsc:d32b727e5f5eb3561627ce5925d495a1cc2bea0b80af2c077adbc06761cc7021 a cssv:
         [ dct:description "ISO/IEC 15944-6 deals with the basics of business transactions and e-business modelling principles, according to Open-edi scenarios and their components. The specification also covers the alignment of Open-edi scenarios and their rules (ISO/IEC 15944-1:2002), the implementation of registration templates (ISO/IEC 15944-2:2006), the use of templates for the identification and referencing of scenarios and scenario components that are structured to be able to support jurisdictional domain requirements as sources of external constraints (ISO/IEC 15944-5:2007), and the e-Business modelling ontology introduced in (ISO/IEC 15944-4:2007)."@en ;
             dct:relation eira:DataModelDataObject ] .
 
-cssvrsc:d3c763a62cbb890447c67932b34050ae382276be164fd6f8b22480941ca0cb21 a cssv:Specification ;
+cssvrsc:d3c763a62cbb890447c67932b34050ae382276be164fd6f8b22480941ca0cb21 a cssv:Standard ;
     dct:relation [ dct:description "Technical Interoperability agreements base on common best practices, methodologies, technical standards and specifications to perform the monitoring, control and accountability on the collaboration between services. The ISO/IEC 2000 - Service Management includes a set of practices for the development and management of IT services."@en ;
             dct:relation eira:TechnicalInteroperabilityAgreementContract ] .
 
@@ -4050,7 +4050,7 @@ cssvrsc:e051c1f5d4763671fc14fadb9f1e10ca21d0c4239be3c33d5c17b573e9c4bedd a cssv:
         [ dct:description "The purpose of the Peppol BIS Billing is to facilitate an efficient implementation and increased use of electronic collaboration regarding the billing process. The specification is currently in use by the PEPPOL Business Interoperability Specification (BIS) (https://docs.peppol.eu/pracc/profiles/p003/index.html)."@en ;
             dct:relation eira:SemanticInteroperabilityAgreementContract ] .
 
-cssvrsc:e070cdaaaf2f8e66e562f7d3dfe35baafd7ddb7e118eb72b66ef5adfeccb1a71 a cssv:Specification ;
+cssvrsc:e070cdaaaf2f8e66e562f7d3dfe35baafd7ddb7e118eb72b66ef5adfeccb1a71 a cssv:Standard ;
     dct:relation [ dct:description "The specification provides guidelines on how to audit a management system. An audit component can follow this international standard guidelines in order to achieve its purpose."@en ;
             dct:relation eira:AuditApplicationComponent ],
         [ dct:description "The specification provides guidelines on how to audit a management system. An audit component can follow this international standard guidelines in order to achieve its purpose."@en ;
@@ -4133,7 +4133,7 @@ cssvrsc:e4758e56eb60846408c6608ca3309836f2cb84c7ff44697aadcc08b531c57cae a cssv:
             dct:relation eira:EuropeanLegalActRequirement ],
         camssa:0d194f455be91c5f7b15a69b60372671e73380adfbcec02ff7192affb30d8b8a .
 
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a2 a cssv:Specification ;
+cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a2 a cssv:ApplicationProfile ;
     dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
             dct:relation eira:LinkedOpenDataRepresentation ],
         [ dct:description "ADMS is a specification that implements shared platform ABB by providing a common way to describe and index datasets or assets in human and readable format. The specifications includes the use of hash codes."@en ;
@@ -4242,7 +4242,7 @@ cssvrsc:e9d18f5f7e9f1b8f178f6c21bbb9e6ef032f44cc13b6ad8bc32ccba28df2f4bf a cssv:
         [ dct:description "Open source implementation of a broadly adopted authentication protocol."@en ;
             dct:relation eira:AuthenticationApplicationService ] .
 
-cssvrsc:ea1887cf6ceb4929fc4a5de8a2180ce8ce23f197de2b61a275d88cd46323fb6a a cssv:Specification ;
+cssvrsc:ea1887cf6ceb4929fc4a5de8a2180ce8ce23f197de2b61a275d88cd46323fb6a a cssv:Standard ;
     dct:relation [ dct:description "Codelists as language codes are commonly used as reference data to organise or categorise other data, or for relating data to information both within and beyond the boundaries of the enterprise. The standard is used by the EU publications office."@en ;
             dct:relation eira:DataSetDataObject ],
         [ dct:description "Codelists as language codes are commonly used as reference data to organise or categorise other data, or for relating data to information both within and beyond the boundaries of the enterprise. The standard is used by the EU publications office."@en ;
@@ -4306,7 +4306,7 @@ cssvrsc:eda8963fef30913a42e112250c4b58b0fd42baaeb3d601cac3a427b1d2b5290e a cssv:
         [ dct:description "The GDPR regulation is a data policy with regard to the processing of personal data and the free movement of such data."@en ;
             dct:relation eira:LegislationOnDataInformationAndKnowledgeExchangeBusinessObject ] .
 
-cssvrsc:edb5639f5ea83e0523503d803f95c1667224564ae2d85eb9677bcce63e543567 a cssv:Specification ;
+cssvrsc:edb5639f5ea83e0523503d803f95c1667224564ae2d85eb9677bcce63e543567 a cssv:Standard ;
     dct:relation [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of PAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
             dct:relation eira:E-SealVerificationAndValidationApplicationService ],
         [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of PAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
@@ -4358,7 +4358,7 @@ cssvrsc:efb40789fe3ad96b26d88aeb5afa229851bc73b19b6a3d4b8220ef3a37fed1c7 a cssv:
         [ dct:description "It is not a regulation that applies in all cases, but in some areas it proposes non-mandatory requirements that a specific legislative body could consider."@en ;
             dct:relation eira:Non-bindingInstrumentRequirement ] .
 
-cssvrsc:f02ea1d3690a89ddc570508919eb8bc2468493430ab03f24fd0d61998501e306 a cssv:Specification ;
+cssvrsc:f02ea1d3690a89ddc570508919eb8bc2468493430ab03f24fd0d61998501e306 a cssv:Standard ;
     dct:relation [ dct:description "The LegalDocumentXML Specifications provide a common legal document standard for the specification of parliamentary, legislative, and judicial documents, for their interchange between institutions anywhere in the world, and for the creation of a common data and metadata model that allows experience, expertise, and tools to be shared and extended by all participating peers, courts, Parliaments, Assemblies, Congresses, and administrative branches of governments. The standard aims to provide a format for long-term storage of and access to parliamentary, legislative and judicial documents that allows search, interpretation, and visualization of documents."@en ;
             dct:relation eira:BindingInstrumentRequirement ],
         [ dct:description "The LegalDocumentXML Specifications provide a common legal document standard for the specification of parliamentary, legislative, and judicial documents, for their interchange between institutions anywhere in the world, and for the creation of a common data and metadata model that allows experience, expertise, and tools to be shared and extended by all participating peers, courts, Parliaments, Assemblies, Congresses, and administrative branches of governments. The standard aims to provide a format for long-term storage of and access to parliamentary, legislative and judicial documents that allows search, interpretation, and visualization of documents."@en ;
@@ -4416,7 +4416,7 @@ cssvrsc:f39e0c3fe498a946e23682510bb840044afdc3d4163eb44397f2606d4a166183 a cssv:
         camssa:0c0aa96c6e7f4602740b181eaa5ae0f9842944c7324e6d257934a43d185a0c93,
         camssa:81cba6583b59930287d8457a435c30fdd2cf00bfeae33720f3ddee7df2d11ab6 .
 
-cssvrsc:f4314f9cf9c8e1b1f57df755f3c11d9797e235f51e0f4bebf15035b1ac4a0074 a cssv:Specification ;
+cssvrsc:f4314f9cf9c8e1b1f57df755f3c11d9797e235f51e0f4bebf15035b1ac4a0074 a cssv:ApplicationProfile ;
     dct:relation [ dct:description "The Core Public Service Vocabulary is a simplified, reusable and extensible data model that captures the fundamental characteristics of a service offered by public administration. This specification can be used as the foundation of a common export format for data in base registries."@en ;
             dct:relation eira:OpenDataRepresentation ],
         [ dct:description "The Core Public Service Vocabulary is a simplified, reusable and extensible data model that captures the fundamental characteristics of a service offered by public administration."@en ;
@@ -4519,7 +4519,7 @@ cssvrsc:f80fdcd27632e81bb3a152830fb9541330d762b3714731fd1eee03fdecf06f9a a cssv:
         [ dct:description "SCIM ensures consistent and efficient identity management, and enhances the  ability to accurately and securely verify user identities."@en ;
             dct:relation eira:IdentificationApplicationComponent ] .
 
-cssvrsc:f8372e2b88d6ec3d8e60e4d788fc5af9950600e13618c49b385b96dd876d1200 a cssv:Specification ;
+cssvrsc:f8372e2b88d6ec3d8e60e4d788fc5af9950600e13618c49b385b96dd876d1200 a cssv:Standard ;
     dct:relation [ dct:description "The standard defines a mechanism enabling user agents to request and resolve messages."@en ;
             dct:relation eira:HumanApplicationInterface ],
         [ dct:description "The standard defines a mechanism that allows restricted resources on a web page to be requested from another domain and embedded."@en ;
@@ -4634,7 +4634,7 @@ cssvrsc:ff8279db1fde0e4287ecd59aab3e2eeba63097e58dcd9ccfa4c55022f881e5e4 a cssv:
     dct:relation [ dct:description "Legal act providing a common scope on the context of European Public services and interoperability aspects."@en ;
             dct:relation eira:PublicPolicyCourseOfAction ] .
 
-cssvrsc:fff7f7a1aa0ab237422f8e557b0773b3742313bb5c8f452fed8c2ea1641dcf5f a cssv:Specification ;
+cssvrsc:fff7f7a1aa0ab237422f8e557b0773b3742313bb5c8f452fed8c2ea1641dcf5f a cssv:Standard ;
     dct:relation [ dct:description "ISO 9241-11:2018 enables users to interact with systems (including built environments), products (including industrial and consumer products) and different technical and personal services."@en ;
             dct:relation eira:PublicAdministrationSingleWindowApplicationComponent ],
         [ dct:description "ISO 9241-11:2018 enables users to interact with systems (including built environments), products (including industrial and consumer products) and different technical and personal services."@en ;
