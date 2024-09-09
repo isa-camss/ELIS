@@ -9,24 +9,25 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 ## Relevant Documentation
 <h2>
-  <b>Current Release (5.0.1)</b> 
+  <b>Current Release (6.1.0)</b> 
 </h2>
 
 <i>ELIS release components </i>
 
-The release components that can be seen above are being developed to generate the ELIS 5.0.1. The list below shows the release components that will be part of 5.0.1. 
+The release components that can be seen above are being developed to generate the ELIS 6.1.0. The list below shows the release components that will be part of 6.1.0. 
 
 <ul>
-  <li>ELIS v5.0.1.ttl</li>
-<li>ELIS v5.0.1.xlsx</li>
-<li>ELIS T-Box.v5.0.1</li>
-<li>EIRA v5.0.0 SKOS</li>
-<li>ELIS Overview v5.0.1</li>
-<li>CAMSS Info Package v8.0.0</li>
+  <li>ELIS v6.1.0.ttl</li>
+<li>ELIS v6.1.0.xlsx</li>
+<li>ELIS T-Box.v6.1.0</li>
+<li>EIRA v6.1.0 SKOS</li>
+<li>ELIS Overview v6.1.0</li>
+<li>CAMSS Info Package v9.0.0</li>
 <li>ELIS Factsheets </li>
-<li>ELIS v5.0.1 Release Notes</li>
+<li>ELIS v6.1.0 Release Notes</li>
 <li>EUPL License v1.2</li>
-<li>ELIS v5.0.1 Release</li>
+<li>ELIS v6.1.0 Release</li>
+<li>SPARQL queries.zip</li>
 </ul>
 
   
