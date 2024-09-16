@@ -816,66 +816,6 @@ elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f35 a dcat:CatalogRecord ;
     dct:title "Asset Description Metadata Schema (ADMS)"@en ;
     foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a2 .
 
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f36 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a3 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f37 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a4 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f38 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a5 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f39 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a6 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f40 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a7 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f41 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a8 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f42 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a9 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f43 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a10 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f44 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a11 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f45 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a12 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f46 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a13 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f47 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a14 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f48 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a15 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f49 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a16 .
-
-elis:5ff0b4fc-afd2-459a-bb0c-6f2ff4854f50 a dcat:CatalogRecord ;
-    dct:title "Asset Description Metadata Schema (ADMS)"@en ;
-    foaf:primaryTopic cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a17 .
-
 elis:6013c8ef-f0ae-45f8-be72-4b821d322c2c a dcat:CatalogRecord ;
     dct:title "Privacy Management Reference Model and Methodology (PMRM)"@en ;
     foaf:primaryTopic cssvrsc:5c42204404e051125a2b2ed15eeb9061fe2a7680d54198ec9b8fe8b0fb62970c .
@@ -2184,10 +2124,10 @@ cssvrsc:0108b898e2efda6da3952bdbb735cbd5f9e84f9c5bc906cf7d350a81b0314c55 a cssv:
             dct:relation eira:DataRepresentationRepresentation ] .
 
 cssvrsc:011d46243282e5a8b8d9f5420aeb3076c0aba5cc8ed4c3e0560abfff3a66ac56 a cssv:Specification ;
-    dct:relation [ dct:description "Mobile-edge Computing allows content, services and applications to be accelerated, increasing responsiveness from the edge. The mobile subscriber’s experience can be enriched through efficient network and service operations, based on insight into the radio and network conditions."@en ;
-            dct:relation eira:SmartDevice ],
-        [ dct:description "ETSI GS MEC 033 is designed to enable edge computing capabilities in Internet of Things (IoT) environments. This standard provides a set of APIs that allow IoT applications to efficiently utilize computing resources at the network edge."@en ;
-            dct:relation eira:EdgeComputingTechnologyCollaboration ] .
+    dct:relation [ dct:description "ETSI GS MEC 033 is designed to enable edge computing capabilities in Internet of Things (IoT) environments. This standard provides a set of APIs that allow IoT applications to efficiently utilize computing resources at the network edge."@en ;
+            dct:relation eira:EdgeComputingTechnologyCollaboration ],
+        [ dct:description "Mobile-edge Computing allows content, services and applications to be accelerated, increasing responsiveness from the edge. The mobile subscriber’s experience can be enriched through efficient network and service operations, based on insight into the radio and network conditions."@en ;
+            dct:relation eira:SmartDevice ] .
 
 cssvrsc:01235b2a6dc0c8617d45c989efe0490dae839617f90e8045df0e08d439b7bd40 a cssv:Specification ;
     dct:relation [ dct:description "EU Catalogue of Services ensures and increases the availability, discoverability and reusability of digital public services. It implements the open specification CPSV-AP, and makes possible to discover public services and “use” them."@en ;
@@ -2372,7 +2312,7 @@ cssvrsc:09d5f955aa3f2e89a91b884839963a35be68332c58006c53d8d7f88e882cb4fa a cssv:
             dct:relation eira:DataModelDataObject ],
         [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
-        camssa:25a391b815d1366d9abbd182f846ef1953956c6ff4460c7a6741d114ee3a8fb3 .
+        camssa:4d275ba63d9fc120129b7025cd8826c702866a10b710bb8c8f46d5d43bcf0c1b .
 
 cssvrsc:0a36b3860abeaf926cd831b891196f612a82684e3a063ae7e2f9109d71748106 a cssv:Specification ;
     dct:relation [ dct:description "The CIM NGSI-LD specification is used for managing and utilizing context information across a wide range of applications. Its ability to represent rich, semantic data and support real-time updates and interoperability makes it a crucial component in developing intelligent, context-aware systems in various domains."@en ;
@@ -2547,7 +2487,8 @@ cssvrsc:1467c87128ba720b128f40df43147e0bb3617bc048b2e50a4d8e76b77d05daf2 a cssv:
             dct:relation eira:AuthorisationApplicationService ],
         [ dct:description "The purpose of the XACML TC is to define a core schema and corresponding namespace for the expression of authorization policies in XML against objects that are themselves identified in XML."@en ;
             dct:relation eira:AccessManagementApplicationComponent ],
-        camssa:2c0ef96b75efd8ea5d75344b1bfc9cb66065b9279d1d404761d97e87e03ba6e4 .
+        camssa:561f17b1ea8fb3c70c613ad2e96c068e98cf1157aff0803e6943bf5b60db54e5,
+        camssa:db95f3e0a5f606af0a0318849d8f1dc1c2f7747757068f9513305595d706fcaf .
 
 cssvrsc:1511141514945ed0630bbaa64cf595748a6dba986bf36176d7a4e551850792ba a cssv:Specification ;
     dct:relation [ dct:description "SOA principles are defined in ISO/IEC 18384-1. Service Oriented Computing is a software engineering paradigm for developing, delivering, and governing services whose functionality is implemented in the form of software components and where cooperation between business entities is made possible through information and communication technology."@en ;
@@ -2880,7 +2821,7 @@ cssvrsc:282fbf529fb851a9da3ed39f48d235c69fd1da93947dfd668889fb8191777920 a cssv:
             dct:relation eira:LegislationCatalogueBusinessObject ],
         [ dct:description "The European Legislation Identifier (ELI) aims to make legislation available online in a standardized format so that it can be accessed, exchanged, and reused across borders. Therefore, the ELI fosters and enables interoperability across-borders."@en ;
             dct:relation eira:OntologyDataObject ],
-        camssa:345ff1c1ee41beeb38f7831271d4d1e090aeaa8bb2e41599bdcf2e6a2d1ef290 .
+        camssa:40b2b48f6a32f728654fb5454c73cc951c4fd43b975400280435db36c9eab357 .
 
 cssvrsc:28b1d1b8ff8ec6abaeaeb145e37d2b95a05d537a74330dadea27c7d018312fb1 a cssv:Specification ;
     dct:relation [ dct:description "Best practices for t he publication of spation data on the web for common use."@en ;
@@ -2917,7 +2858,7 @@ cssvrsc:2a8d11054390e9202db664920d2fb0ddb1a28c805e5d1d96a24c081fa6cb349d a cssv:
             dct:relation eira:IntegrityVerificationApplicationService ],
         [ dct:description "To ensure that electronic signatures can be created and validated anywhere in Europe, the eIDAS Regulation, through Implementing Decision 2015/1506/EU, has defined a number of baseline profiles. The baseline profile of CAdES is one of them. E-seals are e-signatures, the difference is that a signature is added by a person, while a seal is added by an organization. Electronic seals have the same encryption as electronic signatures."@en ;
             dct:relation eira:E-SignatureCreationApplicationService ],
-        camssa:d145269ff78735531ece08f8fd7ed5713e92cd63d629b74cda3065a775cdce4f .
+        camssa:8d195b05db64fb4b62544fb55e920029bbb6b2a0fb514ed9323455aa21c4d850 .
 
 cssvrsc:2b1360464d9f04688a468f625ce1b738d81cf37a037ddee359143646bb7b8c3e a cssv:Specification ;
     dct:relation [ dct:description "This is not a regulation that would apply in any and all cases but most domains would involve at least identification."@en ;
@@ -2944,7 +2885,7 @@ cssvrsc:2b19b02e89f8f608dc453aa425b9d9812db638e70d8def98abd150136ee79185 a cssv:
             dct:relation eira:TechnicalInteroperabilityAgreementContract ],
         [ dct:description "The ODRL Vocabulary and Expression describes the terms used in ODRL policies and how to encode them in the European context."@en ;
             dct:relation eira:EuropeanLegalInteroperabilityAgreeementContract ],
-        camssa:490448e2345ff99740c611df1ca66842ae2ca40af883ba43e62f1e4c339ecefb .
+        camssa:76fe82953d1a73842b8a0ccf0474cf8ad8c675842f8d8e496b518351e0e7fc41 .
 
 cssvrsc:2b51120824a210a60b6a87d0c9e73b91afe31c37154175bf85c61d9ee5f17725 a cssv:Specification ;
     dct:relation [ dct:description "Semantic Treehouse facilitates a service that stores vocabularies and enables data providers to collaboratively develop such vocabularies."@en ;
@@ -3038,7 +2979,7 @@ cssvrsc:2ddd01784d77f481907f1c64a5d2c5318bf451bdc16dfc0011e5f0af93f32192 a cssv:
             dct:relation eira:AuditManagerTechnologyService ],
         [ dct:description "Syslog Protocol enables sending event messages and logging information across an IP network. It's widely used in network systems and applications for capturing log data."@en ;
             dct:relation eira:LoggerTechnologyService ],
-        camssa:47d536127a1bdd0327618423e4a535808d5ad921ff360f2c1a836d057febbb4f .
+        camssa:f1c563fe8733a8e32e85e846faa20a733a94b00d44476a518d1d3d9635dc4884 .
 
 cssvrsc:2e460ba72bb849ac369c4b71cf891c8f51f6ae9144ca6834b06486d1cedabc01 a cssv:Specification ;
     dct:relation [ dct:description "SOAP is a widely used messaging protocol specification for exchanging structured information in the implementation of web services in computer networks"@en ;
@@ -3051,8 +2992,7 @@ cssvrsc:2e460ba72bb849ac369c4b71cf891c8f51f6ae9144ca6834b06486d1cedabc01 a cssv:
             dct:relation eira:APIApplicationInterface ],
         [ dct:description "The specification consists of a messaging protocol specification for exchanging structured information in the implementation of machine interfaces."@en ;
             dct:relation eira:MachineToMachineInterfaceApplicationInterface ],
-        camssa:3dfa65a7bb19584569558cf85efcc952a71da0615e6734419e721b7831749698,
-        camssa:f9792c10d0fe0352b65ea42fbb802e086bdc80f4a3cb7cdfad81e5b2de650b2d .
+        camssa:3dfa65a7bb19584569558cf85efcc952a71da0615e6734419e721b7831749698 .
 
 cssvrsc:2f05c8ce5c3ed5a1381ade4a62709b044540ae87961e5300928acb076bd76a5f a cssv:Specification ;
     dct:relation [ dct:description "The eDelivery ebCore Party Id specification is a standard URN-based syntax (RFC8141) for party identifiers and identifier types using the formally IANA-registered OASIS namespace (RFC3121)."@en ;
@@ -3089,7 +3029,6 @@ cssvrsc:31bf36e23a01098bffec507a6c9cdde488d39d2eb0bc143cfc65c5c04cdfa023 a cssv:
             dct:relation eira:MetadataDataObject ],
         [ dct:description "Specification that use to put constraints on the data syntax used in the data by menas of a controlled vocabulary."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
-        camssa:3b6795acd286431abd3ed379dee974077aa5531bcab4f31d406c995a0fa5908f,
         camssa:d1b4bffb5cad71dfeda592f969c7477185fca53851e5d1f4bc2ec54b71a4f86f .
 
 cssvrsc:31f2ff5bbc6982b0c6fd24e4faa75012a9c88823b142548f13d75da7c853b7cd a cssv:Specification ;
@@ -3202,8 +3141,7 @@ cssvrsc:356b06eaeb0797b4d35e627c84d00bc3de5d72ebfb51f720b77bd4a5548e2704 a cssv:
             dct:relation eira:KnowledgeRepresentation ],
         [ dct:description "CSV is a simple format for representing a rectangular array (matrix) of numeric and textual values."@en ;
             dct:relation eira:DataRepresentation ],
-        camssa:46948ad45f9f70ac17288ea307b843e9bfe38fede15341ffa7c92b138d2447bf,
-        camssa:fdfa9010ee23bfe408ae58b956d60072da1df2d381d3221d83be72ffa2d943e4 .
+        camssa:46948ad45f9f70ac17288ea307b843e9bfe38fede15341ffa7c92b138d2447bf .
 
 cssvrsc:35e2ef41fca202e1fba4b5003d4f50987162664aa81f794762fa7c14d7c9f61c a cssv:Specification ;
     dct:relation [ dct:description "The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between endpoint servers on a network."@en ;
@@ -3218,7 +3156,6 @@ cssvrsc:35e2ef41fca202e1fba4b5003d4f50987162664aa81f794762fa7c14d7c9f61c a cssv:
             dct:relation eira:PublicCommunicationNetwork ],
         [ dct:description "The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between a client and server on a network."@en ;
             dct:relation eira:DataExchangeApplicationService ],
-        camssa:d74dd2dd3da58cdaf7b91a508ba80d112501d91a631390e02318a3c3a2ae04ae,
         camssa:ed17d56fad15ec46172efb194a75b55409f7848a3cea67ff057291a1fdd0331a .
 
 cssvrsc:35e707d59cdc984e42f872843d359e9113813f6bc391a387c01e475dc46beef9 a cssv:Specification ;
@@ -3240,7 +3177,7 @@ cssvrsc:361d038bfd31b5b00ade0ec9c47197318b49708f3d7634c751324e9291946304 a cssv:
             dct:relation eira:DataSetDataObject ],
         [ dct:description "Codelists used for the description of collection of information."@en ;
             dct:relation eira:DataPortabilityPolicyBusinessObject ],
-        camssa:4544317b99a5f6af7c989aad6b3023e8948449d8841711ce6f0cabb4a48785d5 .
+        camssa:4e8132b39379ba0954a688d8bf6ada1c6f759f411f35d72b2ac5c643e8c89304 .
 
 cssvrsc:3625893fb0f18ea4f0f65e615e1c6b67a6240b85b8c3dac5b8c258fd82dcf6cc a cssv:Specification ;
     dct:relation [ dct:description "A database in SIARD format is archived as part of an information package together with externalized large object files, translation maps for external file names, database and business documentation relevant to the understanding of the database. The specification is an independent package in the OIAS model, notably independent to E-ARK SIP, AIP and SIP."@en ;
@@ -3303,7 +3240,7 @@ cssvrsc:393f49d6eb2498dc190763c2914503ddd39b037cd62ce64561b2106b4a7e9786 a cssv:
             dct:relation eira:VirtualPrivateNetworkTechnologyService ],
         [ dct:description "Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts the packets of data sent over an internet protocol network. It is used in virtual private networks."@en ;
             dct:relation eira:DataExchangeApplicationService ],
-        camssa:04bae4cb90e12cdcb3fae8c67d696d80a95895bf0770727a8f4f625ed12c86e4 .
+        camssa:dd9f6f05e7205ce35d52e044e01c373c26ea3b731139f6fb87233b8217d6b399 .
 
 cssvrsc:39eee9a3f8d54dac0e11456b98c29454ebb157dc3a8991f456b7b659bf990370 a cssv:Specification ;
     dct:relation [ dct:description "This document specifies a protocol useful in determining the current status of a digital certificate without requiring Certificate Revocation Lists (CRLs)."@en ;
@@ -3397,7 +3334,7 @@ cssvrsc:3f4284817995061ae9c2a06ef18271f92ca4dc6a91e5b2204be5db5d58808ab6 a cssv:
 cssvrsc:3fc687b8bc43b5a6b0e9d2347e320c5addf8e437371721edd1ac7bd30da8117d a cssv:Specification ;
     dct:relation [ dct:description "The ETL specification defines a set of information useful for the creation of ETL scripts. The Extraction, transformation and load of data is a key element for data warehousing, and the ETL system helps to ensure the consistency and data quality. Besides, it can as well enhance the presentation of the information contained in these Datawerehauses."@en ;
             dct:relation eira:DataExtractionTransformationAndLoadingApplicationComponent ],
-    [ dct:description "The ETL specification defines a set of information useful for the creation of ETL scripts. The Extraction, transformation and load of data is a key element for data warehousing, and the ETL system helps to ensure the consistency and data quality. Besides, it can as well enhance the presentation of the information contained in these Datawerehauses."@en ;
+        [ dct:description "The ETL specification defines a set of information useful for the creation of ETL scripts. The Extraction, transformation and load of data is a key element for data warehousing, and the ETL system helps to ensure the consistency and data quality. Besides, it can as well enhance the presentation of the information contained in these Datawerehauses."@en ;
             dct:relation eira:DataExtractionTransformationAndLoadingApplicationService ] .
 
 cssvrsc:4032a0cea857869c05ee28217e3501ddf0e48d7a641752dd61b6d6a634b2fc79 a cssv:Specification ;
@@ -3573,7 +3510,6 @@ cssvrsc:4ac03729ce6059a948f986d308360c552166a22ef62b90dc47d0f735371830a2 a cssv:
             dct:relation eira:AccessManagementApplicationComponent ],
         [ dct:description "The specification is a widely used XML-based framework for communicating user authentication, entitlement, and attribute information. It is generally used by access management components and services to allow authorized users to make us of an IT service."@en ;
             dct:relation eira:AuthenticationApplicationService ],
-        camssa:d55bf93aa2a8a11faeeb0dcbaf63e261da65fc37f931b79853b7bea28c5224e2,
         camssa:dbbe9ac2b74ff023edf6a1dd01abeb3b9c9546c3e8747a1999c0e3ccdf1bb5d0 .
 
 cssvrsc:4b29066dcc62514f2a65f8c08693a99161caf9e0e359583423edf4e34bd4afe5 a cssv:Specification ;
@@ -3813,7 +3749,7 @@ cssvrsc:5b74bd3147b4848bbffdf2b72b231eb4fcff0e3e35e4b780f650a8783e9a4b8e a cssv:
             dct:relation eira:DomainNameServiceTechnologyService ],
         [ dct:description "Hierarchical decentralized naming system for computers, services, or other resources connected to a network."@en ;
             dct:relation eira:DataExchangeApplicationService ],
-        camssa:4737682ac2a892bf58848452194bc0870b8f83e27d250c67075e2563be62e6d0 .
+        camssa:7bbf20ae2dd7f4e38bf124629ccd92fde5541790ce9ad65e95e5119be3c902bb .
 
 cssvrsc:5c3923b48746bc172a1ee1269ff418b4e519c4f36d1d1e10aeeed480c135635d a cssv:Specification ;
     dct:relation [ dct:description "DASH defines a protocol for efficiently delivering segmented media content over HTTP, enabling servers to adaptively stream high-quality videos based on the viewer's network conditions."@en ;
@@ -3886,7 +3822,7 @@ cssvrsc:626db0b3f57bd8616bcb1722cb2febb4d10fc97a325dc4f021320d2ed26bc137 a cssv:
 cssvrsc:63094b24158a8c766a5659f3e6a82d7b1aabc82862abe3052377e21008c84f41 a cssv:Specification ;
     dct:relation [ dct:description "ETSI TS 119 511 covers the general requirements for the creation, verification and validation of electronic signatures, electronic seals or electronic time stamps, registered electronic delivery services and certificates related to such services; e.g. ETSI TS 119 512. The specification sets out the general requirements of the international community for providing trust in preservation services, preserving the validity status of digital signatures and enabling the preservation of digital objects using digital signature techniques."@en ;
             dct:relation eira:TrustServiceProvisioningApplicationComponent ],
-        camssa:950b57db63c5256392b694492777a71ab4bf7092d751d2eb929177ed5a2d44c8 .
+        camssa:d26c5d79e018221d6ff53309a93135824a919b686f910d229c1019d66488d7c8 .
 
 cssvrsc:6327b8eef8bae4c922a91203eef220faf3319f675e644a87014c03512b18e8a0 a cssv:Specification ;
     dct:relation [ dct:description "The GeoDCAT-AP specification is well-suited to represent descriptive information about data, resources, or information objects related to public services, particularly those involving geospatial components."@en ;
@@ -4218,7 +4154,7 @@ cssvrsc:7fa1cb50b03a684843349c75a6533a376020f0c71a4829a4aa250554a5c33896 a cssv:
             dct:relation eira:TrustServiceProvisioningApplicationComponent ],
         [ dct:description "The specification specifies a format and mechanisms for establishing, locating, accessing and authenticating a trusted list which makes available trust service status information so that interested parties may determine the status of a listed trust service at a given time."@en ;
             dct:relation eira:E-SignatureVerificationAndValidationApplicationService ],
-        camssa:e0a9d9076935d4849903c47dc6a15d56f4354059f3de6c2f6c5324bc912a9841 .
+        camssa:e62c09d72d40d6a8ad8bcdeb9627a342e3ffe154f953dce91bf74aa1403ef681 .
 
 cssvrsc:7fdb941a406786188055ea6b01c5b763f594ad8289c7419e51814c68dc80e296 a cssv:Specification ;
     dct:relation [ dct:description "The Coordinated Metadata Catalogue Model (CMD) specification provides a robust framework for representing the collection of descriptive information about data, resources, or information objects related to public services. By standardizing and organizing metadata elements, CMD ensures that public services data is comprehensive, discoverable, and accessible"@en ;
@@ -4249,7 +4185,7 @@ cssvrsc:835a37b6f8f926c2c1b50b623f2fcd833ecb87d7e6b85b3b1732b4766bbadf8f a cssv:
             dct:relation eira:OntologiesCatalogueDataObject ],
         [ dct:description "OAIS defines a model that includes functional and information modelling concepts, which provides a framework through which archival challenges can be addressed, especially with regard to digital information."@en ;
             dct:relation eira:OntologyDataObject ],
-        camssa:9335c5e8798b120ef158f5adb29dab1c835018997d1776a8790679c258bd2f79 .
+        camssa:cc74ac4eca9332454565a16f902796ee329f89e105c5a959a970327e9a7d513d .
 
 cssvrsc:83adcfe7fd6d09d1d78d43905709f9566f30e9378e845fa0e04c258537c153e4 a cssv:Specification ;
     dct:relation [ dct:description "Vocabulary used for the description of dataset catalogues Metadata, semantics & ontologies, interoperability"@en ;
@@ -4278,8 +4214,7 @@ cssvrsc:83adcfe7fd6d09d1d78d43905709f9566f30e9378e845fa0e04c258537c153e4 a cssv:
             dct:relation eira:LinkedDataRepresentation ],
         [ dct:description "Vocabulary used for the description of dataset catalogues Metadata, semantics & ontologies, interoperability"@en ;
             dct:relation eira:LinkedOpenDataRepresentation ],
-        camssa:c06cc1a04165f44d6f79637d1fe620687062023e31fafce3d99445286d6c50ab,
-        camssa:c28a7ac017af6477c6613493f16fb6ee164c862b4fe21890a6a6df3818b73dea .
+        camssa:c06cc1a04165f44d6f79637d1fe620687062023e31fafce3d99445286d6c50ab .
 
 cssvrsc:844a9f33532b78144bb6f037efcfd10e05ba0e751b89bad502062c993192b154 a cssv:Specification ;
     dct:relation [ dct:description "The Digital Europa Thesaurus (DET) is a multilingual thesaurus covering the main subject matters of the European Commission's public communications."@en ;
@@ -4296,7 +4231,6 @@ cssvrsc:84b85235ee46701a6b95a3f1ef00844e95091763815a88edfcb291aa29ffffb8 a cssv:
             dct:relation eira:DataExchangeApplicationComponent ],
         [ dct:description "HTTPS is an extension of the Hypertext Transfer Protocol (HTTP) and is used for secure communication over a computer network"@en ;
             dct:relation eira:DataExchangeApplicationService ],
-        camssa:3e25dd8c16d304fe3d8ec93a73de9d8792d7ce03a1de44186d92fa4e48a93835,
         camssa:db045c6770b9d23954d0a24a39f798f69c6343a49e4b19ad6ab3443cffa7ac73 .
 
 cssvrsc:84fe8f7f1c87eb481193cdb27043afa1b40ddc7efd1fd268f7ae9398bb8170f5 a cssv:Specification ;
@@ -4394,7 +4328,7 @@ cssvrsc:8c25fc22b6b6f1ff9ac5f698258c1bac7ea63c99f2f818130b7933f25f8cafa7 a cssv:
             dct:relation eira:EventManagerTechnologyService ],
         [ dct:description "LDES supports creating a reliable and traceable data history, crucial for applications requiring robust and tamper-evident data management."@en ;
             dct:relation eira:InmutableDatabaseManagerTechnologyService ],
-        camssa:07dc7ca312d37693cce5e196282aa426ae5cca98a53971a8fee4cd32ca8a1236 .
+        camssa:3307f908202db68e55e59bd5b1188380243cb0e5b6cb2a33f03c66323f24070c .
 
 cssvrsc:8d02cdfe3cc0ca239b550469888230339822ae24b27b9ba0ad5583e1c7715d5d a cssv:Specification ;
     dct:relation [ dct:description "The Gaia-X Policy Rules and Labelling Document sets criteria for participation and data handling, ensuring compliance and security within data spaces."@en ;
@@ -4457,7 +4391,7 @@ cssvrsc:8ef4449817a74c2f19c7b02f804893fc803bb1f0fe8526488f8d29ceed7d2d2b a cssv:
             dct:relation eira:DataPersistenceApplicationService ],
         [ dct:description "ETSI TS 119 432 focuses on secure timestamping, archiving, and cryptographic management, ensuring that digital signatures remain verifiable and intact over time."@en ;
             dct:relation eira:DataPersistenceApplicationComponent ],
-        camssa:f4c0504a900e5f2e9304ca0b51f12ff9dd7a4ef6460070ea29835b170ed3161a .
+        camssa:0acac37322cc6168f991a6f955e4635c5099787e04928c3c35fc0f6dd529ff3e .
 
 cssvrsc:8f688d53afcca27546d8b931207e249c83c17293e5218a730ecb12f58c07faf6 a cssv:Specification ;
     dct:relation [ dct:description "OIDC4VCI is related to distributed blockchain networks because it enables the issuance and verification of verifiable credentials, which are often stored and managed on decentralized blockchain networks."@en ;
@@ -4749,8 +4683,7 @@ cssvrsc:a4a7987e596ba4b307e31ac3ee5f8011e0bc7baf38f31bdda3122c2d25cd461e a cssv:
             dct:relation eira:KnowledgeTriplestore ],
         [ dct:description "RDF is a data format used for the semantic description of resources and their sharing."@en ;
             dct:relation eira:KnowledgeRepresentation ],
-        camssa:3a4ec9240474c915233c2b2d4cf0d556d00c16faf78b1fe2e0ef70a10d44a6e3,
-        camssa:a86112691da8759a108fa48c02f657314a2fcdc6bbb425f727bb89f419fde3f8 .
+        camssa:8260a0d19400809ba6b5fa82308c972720aa2ce81d550c3ac36177a7d3cb06d4 .
 
 cssvrsc:a5741434cd7caa0e1b5b5b1d4d89d9fceccd894aeea9fb2ed7b0d669f24ebd4a a cssv:Specification ;
     dct:relation [ dct:description "This European Communication depicts the main steps and elements to be taken into account for the development of data driven solutions and services, which inevitably includes the data management."@en ;
@@ -4808,8 +4741,8 @@ cssvrsc:a61e46d2918487a44fe12b59273afd2fd4326225041c92534ed339c600fc12ac a cssv:
             dct:relation eira:DataObject ],
         [ dct:description "The Core Evidence and Criterion Vocabulary is a simplified, reusable and extensible data model for describing the principles and the means that a private entity must fulfil in order to become eligible or to be qualified to perform public services or participate in public procurement. This specification can be used as the foundation of a common export format for data in base registries."@en ;
             dct:relation eira:MetadataDataObject ],
-        camssa:53777b8c8d380ee37f3079c4db6431f2c4183ed4ccb3f925dbd14a9c8355f02f,
-        camssa:5e001e2970feba38f79d49846d1c73ef2623b889c04448de141eafd7685ee1a0 .
+        camssa:5e001e2970feba38f79d49846d1c73ef2623b889c04448de141eafd7685ee1a0,
+        camssa:b9527a4121450b3860627075704ced82f21b46c860b76bd49b3f7a578376628d .
 
 cssvrsc:a638db54104cab88ca71696f5148fb1e2fe62736ef1c02c86e1fe54cfb720fce a cssv:Specification ;
     dct:relation [ dct:description "Multi-access Edge Computing enables the deployment of MEC applications as software-only entities running on top of a virtualisation infrastructure."@en ;
@@ -4891,6 +4824,12 @@ cssvrsc:ad20dcd688066edeef815926f8bf2df7508a5798fcee9144447a67c7dffb419e a cssv:
 
 cssvrsc:ad376c04e72257bbcaa5feaab45553b20d12ec18b29b7ae27eb32a65a7f2fd65 a cssv:Specification ;
     dct:relation [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
+            dct:relation eira:MetadataDataObject ],
+        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
+            dct:relation eira:OntologyDataObject ],
+        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary. The specification considers the use of hash codes."@en ;
+            dct:relation eira:HashCodeDataObject ],
+        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
             dct:relation eira:DataObject ],
         [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
             dct:relation eira:DataMappingCatalogueDataObject ],
@@ -4903,13 +4842,7 @@ cssvrsc:ad376c04e72257bbcaa5feaab45553b20d12ec18b29b7ae27eb32a65a7f2fd65 a cssv:
         [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
             dct:relation eira:DataModelDataObject ],
         [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
-            dct:relation eira:OpenDataRepresentation ],
-        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
-            dct:relation eira:MetadataDataObject ],
-        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary."@en ;
-            dct:relation eira:OntologyDataObject ],
-        [ dct:description "Core vocabulary that can define requirements for a national or policy domain-specific vocabulary. The specification considers the use of hash codes."@en ;
-            dct:relation eira:HashCodeDataObject ] .
+            dct:relation eira:OpenDataRepresentation ] .
 
 cssvrsc:ada520dfe348a4219f62ec6e255a207ad0f4d72f32cff473e3df8162ffdbaf64 a cssv:Specification ;
     dct:relation [ dct:description "DNS-based Authentication of Named Entities (DANE) authenticates TLS client and server entities without a certificate authority (CA), preventing eavesdropping, tampering or forgery of their communications."@en ;
@@ -4952,7 +4885,7 @@ cssvrsc:b059e5051bb83f9abf3009b747716a429d552c29ffec38039c830dbe2f45a1b9 a cssv:
             dct:relation eira:ControlledVocabularyDataObject ],
         [ dct:description "The Universal Business Language (UBL) provides an open library of standard XML electronic business documents, their components and relationships."@en ;
             dct:relation eira:DataModelDataObject ],
-        camssa:5969dc2f6bd0c7b963b3e938432b766cefab05bc8972ea93025ec8b04b723cfa .
+        camssa:37876dfd2d513da1ae2da1a24e9ce0fc52cd66258065093a4ded1120240bdd10 .
 
 cssvrsc:b08b1c408400bfae954a739eaefeefec0208de49ff648e63ead13e58e7415ffd a cssv:Specification ;
     dct:relation [ dct:description "OSLO helps in streamlining data sharing and communication, ensuring efficient and standardized data handling."@en ;
@@ -5002,8 +4935,8 @@ cssvrsc:b4ae8cf6c3010eac5434606441e7bb6a001d0ed7034ff64b1311b481df048991 a cssv:
             dct:relation eira:RegistrationApplicationService ],
         [ dct:description "Widely used industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol network. It allows the sharing of information about users, systems, networks, services, and applications throughout the network. It is generally used by service registration components to register the system services in a distributed directory."@en ;
             dct:relation eira:ServiceRegistryApplicationComponent ],
-        camssa:a732815c0d170f8865d97a54a0d1051a8109dc04e508360c09c46759b85444af,
-        camssa:d38dd7f0081584148c4eaef35c5f07b6db9a3512b25a39c1f3f32bfcc00898c8 .
+        camssa:2afa1d1e0a617a1be6041b6643a70f35cca92858b46be793f81cb8dd68e1ed54,
+        camssa:6195a42c20e30fb56dc6e4322f99350bf29134ce041bcd0cf40387ba3a9d973d .
 
 cssvrsc:b4afdb3f03be93511429c2ebf56b4d6eff0dfe7b6e41fe3f9d1768e2e7331e5f a cssv:Specification ;
     dct:relation [ dct:description "The Information Technology Infrastructure Library is a set of detailed practices for IT service management that focuses on aligning IT services with the needs of business. It defines requirements for the Service Level Agreement(s) or Operational Level Agreements(s) and provides templates aligned with these requirements."@en ;
@@ -5145,7 +5078,6 @@ cssvrsc:b9929e88d6e711750b8a162b00f84c50f21e4d35bd79c648bfa5186ae447336a a cssv:
             dct:relation eira:DataModelDataObject ],
         [ dct:description "Specification that use to put constraints on the data syntax used in the data by menas of a controlled vocabulary."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
-        camssa:3b6795acd286431abd3ed379dee974077aa5531bcab4f31d406c995a0fa5908f,
         camssa:d1b4bffb5cad71dfeda592f969c7477185fca53851e5d1f4bc2ec54b71a4f86f .
 
 cssvrsc:b9b71a63c121a9e781e72e35313590ca0ba8df82b92a5b5bc8980cefe5cbdbe4 a cssv:Specification ;
@@ -5161,7 +5093,7 @@ cssvrsc:b9b71a63c121a9e781e72e35313590ca0ba8df82b92a5b5bc8980cefe5cbdbe4 a cssv:
             dct:relation eira:ConformanceTestingApplicationService ],
         [ dct:description "Shape Expressions (ShEx) defines a constraint schema intended for communicating interface parameters and data structures, as well as generating user interfaces, promoting interoperability between information systems."@en ;
             dct:relation eira:MachineToMachineInterfaceApplicationInterface ],
-        camssa:626118e4d8b9ff49ac4ca4917e14bf2cc6aea18b75dc5853c6bd6d788f1d61d1 .
+        camssa:4a789f6e046908e1c7e4cab937e8e0e898fedc0ce72cf06a10a78e7a7635f0dd .
 
 cssvrsc:b9cd5c4f17e7b599e3e34669c79a0905121dd66cf1bdeb74f4a4b74e957001df a cssv:Specification ;
     dct:relation [ dct:description "The MyData Service Registry specification provides the required information to use and discover services in a uniform manner."@en ;
@@ -5483,7 +5415,7 @@ cssvrsc:d22a7f4993386b2cbdf6d21bc369c92bbdf5c5df6ce46fa89574c0a633e2b469 a cssv:
             dct:relation eira:PublicAdministrationSingleWindowApplicationComponent ],
         [ dct:description "Specification widely used to increase the accessibility of public administration web pages, in particular, adaptative content."@en ;
             dct:relation eira:PublicAdministrationSingleWindowApplicationService ],
-        camssa:10573e0de226750fa67e30392c645682b553fb34de310f7181fdbca51c18ec52 .
+        camssa:559071c95f83b71fddd799a5920c75e390d7afa7b8c8591c96ee83c3735ada64 .
 
 cssvrsc:d2bd77c7a28e64616e1e5c9de657c2b1cdfa7e79812b0912e21ae190032e9537 a cssv:Specification ;
     dct:relation [ dct:description "BPSim provides a standard for integrating simulation capabilities with BPMN models, enabling the analysis and optimization of business process performance and decision-making through detailed operational simulations."@en ;
@@ -5603,8 +5535,7 @@ cssvrsc:dc70a1946ca6f74179f6cb112277913e0efdcc46325e1d011364255a202ba9ac a cssv:
 cssvrsc:dd3c03c70c338994d0cb5a38c92ea1920f2526959fa7fa1bcb1d6f4eb345374a a cssv:Specification ;
     dct:relation [ dct:description "EuroVoc is a multilingual, multidisciplinary thesaurus covering the activities of the EU, the European Parliament in particular."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
-        camssa:19cf3473d8aecb562c8a4096d5e4899b15e59139f93520d01e28acae10873ff2,
-        camssa:9d8757d9707bb9fa983ab35e47ec9e94657fd0e15f093c9294c71383a62c270d .
+        camssa:296a15c21f84fa7cd7411442258508666d05da5a0a00f6dea288ad69e87ed572 .
 
 cssvrsc:dddff8544042eb988c47233f82dabea445e63f0cc63a8d4b3927aaa10a7a1829 a cssv:Specification ;
     dct:relation [ dct:description "Business agnostic legal act defining milestones, goals and obligations involving interoperability aspects, some of them with no legal obligation."@en ;
@@ -5631,7 +5562,7 @@ cssvrsc:df23408dc85e78d7b35b0c0528e9f46c23005f6cb081727136a5b6523e3eb86d a cssv:
             dct:relation eira:WebServiceApplicationInterface ],
         [ dct:description "The specification consists of an XML-based interface description language that is used for describing the functionality offered by a machine interface."@en ;
             dct:relation eira:MachineToMachineInterfaceApplicationInterface ],
-        camssa:510be621c43d8518314ce49041dd5e49212228895e5ba9c1a6dbe46ac8be1ad2,
+        camssa:9a90fab8d3a16634c709c0a3b3b106460112da5f450fb2cf77404caabeb50349,
         camssa:cd15993472ed8f79097d619f18d5e2bdeaf79959406438137146c9155d32c65d .
 
 cssvrsc:df502be6cf0d0a68c7358be2bc8a66de5c0ed793696d5a09c8ab44e9b9faaac9 a cssv:Specification ;
@@ -5708,7 +5639,7 @@ cssvrsc:e203b0f47ce01b3d1073b10a709acd5803ad73e67057666840c66fb6f2ae0b42 a cssv:
 cssvrsc:e217431e05d8ebeb61d711d0f93574bd7482c7c2d00425dbbd4a43182cca7a6f a cssv:Specification ;
     dct:relation [ dct:description "The Dublin Core Ontology is vocabulary defined for the description of Metadata, semantics & ontologies, interoperability. It is a common used ontology (or at least part of it), that eases the interoperability of systems."@en ;
             dct:relation eira:OntologyDataObject ],
-        camssa:77c833cc4bf585a2b6a8b7bb705489b7732b2ce31af7fb861ac0ddb7566693b3 .
+        camssa:52073bafbc072595872ec2efaef082c9ba497f63d1d6b74d6fe52daa8c263097 .
 
 cssvrsc:e246bce91ba0880830b2880667e27bc79739e205beaab3463baaa3481e71c1ae a cssv:Specification ;
     dct:relation [ dct:description "The PSI Directive enhances public sector capabilities when handling information and reusing data."@en ;
@@ -5745,7 +5676,7 @@ cssvrsc:e438965c54bc7f78e6ede46f4d408abe398302a3b33e374a9ed4662b8b44df99 a cssv:
             dct:relation eira:KnowledgeRepresentation ],
         [ dct:description "XML is a subset of SGML that enables generic SGML to be served, received, and processed on the Web in the way that is now possible with HTML."@en ;
             dct:relation eira:DataRepresentation ],
-        camssa:6453fe69bf2f3ff5892eed313e0250b0f5f1f3c7df7dbc10fa52f58635a8999f,
+        camssa:74ecd64479f85251863f23f53392bae51524e571729b196dfd39350bbba5aeff,
         camssa:8c9b9c54f21176231185cf4455e3d23b6e3c3048d33ae408047c28088e4733f6 .
 
 cssvrsc:e466c9d975d60dcbb51231519f02eea8a79ccecf3a85e7292c427a23a9d9fbe6 a cssv:Specification ;
@@ -5769,90 +5700,46 @@ cssvrsc:e4758e56eb60846408c6608ca3309836f2cb84c7ff44697aadcc08b531c57cae a cssv:
             dct:relation eira:EuropeanLegalActRequirement ],
         [ dct:description "AKN4EU promotes a common and secured interinstitutional standard for legal machine-readable structured document content and metadata."@en ;
             dct:relation eira:LegalActRequirement ],
-        camssa:0d194f455be91c5f7b15a69b60372671e73380adfbcec02ff7192affb30d8b8a .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a10 a cssv:Specification ;
-    dct:relation [ dct:description "By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services. Moreover, it is the basis for the knowledge sharing and collaboration amongst European Administrations, business and other stakeholders."@en ;
-            dct:relation eira:OntologyDataObject ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a11 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
-            dct:relation eira:SemanticInteroperabilityAgreementContract ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a12 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues, including catalogues of APIs."@en ;
-            dct:relation eira:APICatalogueApplicationComponent ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a13 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues, including catalogues of APIs."@en ;
-            dct:relation eira:APIDiscoveryandCatalogueApplicationService ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a14 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:DataPublicationApplicationComponent ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a15 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:DataPublicationApplicationComponent ],
-        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:DataPublicationApplicationService ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a16 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:MetadataManagementApplicationComponent ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a17 a cssv:Specification ;
-    dct:relation [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:MetadataManagementApplicationComponent ],
-        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
-            dct:relation eira:MetadataManagementApplicationService ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
+        camssa:3f97245a957013ace21e083f1f64bde43ff9b6d9699f25f76d1c16c199eaf9de .
 
 cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a2 a cssv:Specification ;
     dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
+            dct:relation eira:SemanticInteroperabilityAgreementContract ],
+        [ dct:description "By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services. Moreover, it is the basis for the knowledge sharing and collaboration amongst European Administrations, business and other stakeholders."@en ;
+            dct:relation eira:OntologyDataObject ],
+        [ dct:description "Specification used for the description of catalogues, including catalogues of APIs."@en ;
+            dct:relation eira:APICatalogueApplicationComponent ],
+        [ dct:description "Specification used for the description of catalogues, including catalogues of APIs."@en ;
+            dct:relation eira:APIDiscoveryandCatalogueApplicationService ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:DataPublicationApplicationComponent ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:DataPublicationApplicationComponent ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:DataPublicationApplicationService ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:MetadataManagementApplicationComponent ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:MetadataManagementApplicationComponent ],
+        [ dct:description "Specification used for the description of catalogues and datasets. It allows the creation, storage, categorisation and retrieval of Metadata, semantics & ontologies, interoperability"@en ;
+            dct:relation eira:MetadataManagementApplicationService ],
+        [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
             dct:relation eira:LinkedDataRepresentation ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a3 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
+        [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
             dct:relation eira:LinkedOpenDataRepresentation ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a4 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
+        [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
             dct:relation eira:OpenDataRepresentation ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a5 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS provides a common way to describe, and index datasets or assets in human and readable format."@en ;
+        [ dct:description "ADMS provides a common way to describe, and index datasets or assets in human and readable format."@en ;
             dct:relation eira:ControlledVocabularyDataObject ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a6 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
+        [ dct:description "ADMS is an specification that implements shared platform ABB as it is the basis of the European Platform Joinup, being the Metadata, semantics & ontologies, interoperability data model for the description of Interoperable solutions (datasets). By providing a common way to describe, and index datasets or assets in human and readable format, it fosters the reuse of digital public services."@en ;
             dct:relation eira:DataObject ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a7 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS provides a common way to describe and index datasets or assets in human and readable format."@en ;
+        [ dct:description "ADMS provides a common way to describe and index datasets or assets in human and readable format."@en ;
             dct:relation eira:DataModelDataObject ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a8 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS is a specification that implements shared platform ABB by providing a common way to describe and index datasets or assets in human and readable format. The specifications includes the use of hash codes."@en ;
+        [ dct:description "ADMS is a specification that implements shared platform ABB by providing a common way to describe and index datasets or assets in human and readable format. The specifications includes the use of hash codes."@en ;
             dct:relation eira:HashCodeDataObject ],
-        camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
-
-cssvrsc:e4940944a20f90dcd28ec5ccaa3bbd3cb74c15004568cc32968faeb0819a69a9 a cssv:Specification ;
-    dct:relation [ dct:description "ADMS provides a common way to describe and index datasets or assets in human and readable format."@en ;
+        [ dct:description "ADMS provides a common way to describe and index datasets or assets in human and readable format."@en ;
             dct:relation eira:MetadataDataObject ],
+        camssa:f179e2320e04798b6243c7f08e8cd586aa7ca18f4951c0c0ba7a2afc7e9f3011,
         camssa:901981adc7391f00196e37c503e590da0e8a58b0418d1eb3f620fef747da8d31 .
 
 cssvrsc:e4f09a7e4ed379becfbe33fde381b5219e83adb71b921bfb7a861e7d9f394ab5 a cssv:Specification ;
@@ -5870,7 +5757,7 @@ cssvrsc:e5b93bfdb3252d290b8d69275202406c6a66d38f3b85d1afc7dd834d4e0c3085 a cssv:
             dct:relation eira:E-SignatureCreationApplicationService ],
         [ dct:description "ETSI TS 119 512 provides an interface offering preservation services, such as qualified electronic signatures, electronic seals or advanced electronic seals, which may or may not provide storage functionality. The specification provides different preservation scheme profiles, which may implement different preservation and validation technologies."@en ;
             dct:relation eira:E-SignatureVerificationAndValidationApplicationService ],
-        camssa:ae8548e495f094ae9abcf6bd6d0fb974ea057d11c8641449d6d94706f5ae7152 .
+        camssa:de0a7af18700560f0abaecdfa348f412222b00606dd1e860ebaecee7de70e100 .
 
 cssvrsc:e5be83b5c5d042d8ecde5179bed404cfd3dffb45fa1546b754e002dca216349d a cssv:Specification ;
     dct:relation [ dct:description "NGSI-LD facilitates the data analytics of data sources within data spaces."@en ;
@@ -6091,7 +5978,7 @@ cssvrsc:ee27322554e46143c3c56f419fc28b71a445380e4e5af7332aabdb87c7d0ec26 a cssv:
             dct:relation eira:DataManagementApplicationService ],
         [ dct:description "GraphQL is an open-source query language and data manipulation language for APIs that functions as an API endpoint, making GraphQL a powerful tool for modern data publication practices."@en ;
             dct:relation eira:DataPublicationApplicationService ],
-        camssa:71217a4d3a89801270b7ce1517d6ce17a9d20b5f9be6e03361ec7776a56c3eed .
+        camssa:823e431f9b239388833256e1b97780359bc145aca3bce46ff4a8cbcf81b68be8 .
 
 cssvrsc:ef08c2789f6b3c4df7347426999a885397045dfa90a29f3a7009505988c9a9b2 a cssv:Specification ;
     dct:relation [ dct:description "This communication from the Commission includes a set of plans and principles to achieve a common data space enhancing the Interoperability across borders."@en ;
@@ -6139,7 +6026,7 @@ cssvrsc:f236dc7ff527259efd080ce8e08ea42d6ccec39a99302f2da33e927666fbdf18 a cssv:
             dct:relation eira:DataSpaceApplicationService ],
         [ dct:description "OpenAPI Specification (OAS) allows to deploy an API and code generation tools to build servers and clients in multiple programming languages."@en ;
             dct:relation eira:APIApplicationInterface ],
-        camssa:126973027d2336d1a94d1cd107300a7bbe4f3b657909d569c4e287d64b34e2f9 .
+        camssa:3d5af815415f6d140c78cca98f9aa78a1a49880e41a1c3c11c4710c0833801f5 .
 
 cssvrsc:f246e4a67ffaaa842c3b3a78787b19628d9a6928fd4f91239372c73d1b9e618d a cssv:Specification ;
     dct:relation [ dct:description "This standard explains how Catalogue Services based on the ISO19115/ISO19119 Application Profile for the OGC® Catalogue Services Specification v 2.0.2 are organized and implemented for the discovery, retrieval and management of data, metadata, services metadata and application metadata."@en ;
@@ -6204,7 +6091,6 @@ cssvrsc:f4314f9cf9c8e1b1f57df755f3c11d9797e235f51e0f4bebf15035b1ac4a0074 a cssv:
             dct:relation eira:DataModelDataObject ],
         [ dct:description "The Core Public Service Vocabulary is a simplified, reusable and extensible data model that captures the fundamental characteristics of a service offered by public administration. This specification can be used as the foundation of a common export format for data in base registries."@en ;
             dct:relation eira:MetadataDataObject ],
-        camssa:587f5c9c516b0c0c4231830bde2c106a5d8aa460319eb3f2da2b475f6e24a54c,
         camssa:e2467b920113fac3c7fb0aafb9d2ae37eb817b7c881b3ddb222e6ab390e1ce95 .
 
 cssvrsc:f4c3839a5bdff2f8a894f8a407e5ad3ab1e7a43e77b90497ddc7602079318556 a cssv:Specification ;
@@ -6248,7 +6134,7 @@ cssvrsc:f4e184ca98937f5afbd41c1eb28269fee518423fa7ef2a0da06997db8eb9ac8e a cssv:
             dct:relation eira:OntologyDataObject ],
         [ dct:description "The Data Privacy Vocabulary (DPV) represents a taxonomy of privacy and data protection related terms, including terms from the European General Data Protection Regulation (GDPR). The specification covers aspects such as personal data, purposes for their collection, among others."@en ;
             dct:relation eira:LinkedDataRepresentation ],
-        camssa:5e3a52fba73ab497e10108935d185559e4b9d794d71f08c475a6ed0e5de84a21 .
+        camssa:ab20ee330326215713dca8bb632cc64e5f4302cd53fa8203ca151c52173e4f4d .
 
 cssvrsc:f583cf0bd8c648594647d8361d498fa4514355f12a4233b496de8f51d1debfc0 a cssv:Specification ;
     dct:relation [ dct:description "The Advanced Encryption Standard (AES) specifies a FIPS-approved cryptographic algorithm that can be used to protect electronic data. The AES algorithm is a symmetric block cipher that can encrypt (encipher) and decrypt (decipher) information. Encryption converts data into an unintelligible form called ciphertext; decryption of the ciphertext converts the data back into its original form, called plaintext."@en ;
