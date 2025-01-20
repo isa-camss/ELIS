@@ -1,0 +1,110 @@
+@prefix agg: <http://jena.apache.org/ARQ/function/aggregate#> .
+@prefix schema: <http://schema.org/> .
+@prefix : <http://www.semanticweb.org/owl/owlapi/turtle#> .
+@prefix egovera: <http://data.europa.eu/dr8/egovera/> .
+@prefix sail: <http://www.openrdf.org/config/sail#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix geof: <http://www.opengis.net/def/function/geosparql/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix spif: <http://spinrdf.org/spif#> .
+@prefix sc: <http://data.europa.eu/2sa/scenarios#> .
+@prefix path: <http://www.ontotext.com/path#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix array: <http://www.w3.org/2005/xpath-functions/array> .
+@prefix cccev: <http://data.europa.eu/m8g/cccev#> .
+@prefix apf: <http://jena.apache.org/ARQ/property#> .
+@prefix cav: <http://data.europa.eu/2sa/cav#> .
+@prefix rep: <http://www.openrdf.org/config/repository#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix map: <http://www.w3.org/2005/xpath-functions/map> .
+@prefix cssvrsc: <http://data.europa.eu/2sa/cssv/rsc/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix sr: <http://www.openrdf.org/config/repository/sail#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix afn: <http://jena.apache.org/ARQ/function#> .
+@prefix camssa: <http://data.europa.eu/2sa/assessments/> .
+@prefix list: <http://jena.apache.org/ARQ/list#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ofn: <http://www.ontotext.com/sparql/functions/> .
+@prefix geoext: <http://rdf.useekm.com/ext#> .
+@prefix graphdb: <http://www.ontotext.com/config/graphdb#> .
+@prefix elap: <http://data.europa.eu/2sa/elap/> .
+@prefix math: <http://www.w3.org/2005/xpath-functions/math> .
+@prefix omgeo: <http://www.ontotext.com/owlim/geo#> .
+@prefix eira: <http://data.europa.eu/dr8/> .
+@prefix cssv: <http://data.europa.eu/2sa/cssv#> .
+@prefix elis: <https://data.europa.eu/2sa/elis#> .
+
+cssvrsc:1467c87128ba720b128f40df43147e0bb3617bc048b2e50a4d8e76b77d05daf2 a cssv:Specification;
+  dct:relation camssa:561f17b1ea8fb3c70c613ad2e96c068e98cf1157aff0803e6943bf5b60db54e5,
+    _:node1, _:node2, _:node3, _:node4, _:node5, _:node6 .
+
+cssvrsc:18eb1b04c899747c21371fe1a4084b6ba9e8def932e53698af13bffff77410d5 a cssv:Specification;
+  dct:relation _:node9, _:node10 .
+
+cssvrsc:9663adc228c60c001b469c7d5cde6c4fa2496e59b27a0449b6363b0231018e48 a cssv:Specification;
+  dct:relation _:node7, _:node8 .
+
+cssvrsc:c747bcc29e933f77261b08b02977440192e05ad0555c99d25127943c0c310a4d a cssv:Specification;
+  dct:relation _:node11, _:node12 .
+
+elis:64c80bba-850c-4c9a-bc17-e8f19b19ca3a a dcat:CatalogRecord;
+  dct:title """AGREEMENT ON TECHNICAL CO-OPERATION BETWEEN ISO AND CEN
+(Vienna Agreement)"""@en;
+  foaf:primaryTopic cssvrsc:c747bcc29e933f77261b08b02977440192e05ad0555c99d25127943c0c310a4d .
+
+elis:b01933dd-0da5-4bc7-b0ed-142513208625 a dcat:CatalogRecord;
+  dct:title "Extensible Forms Description Language (XFDL)"@en;
+  foaf:primaryTopic cssvrsc:18eb1b04c899747c21371fe1a4084b6ba9e8def932e53698af13bffff77410d5 .
+
+elis:d74b4f0f-f10d-47c3-98dc-564f9acdcc0a a dcat:CatalogRecord;
+  dct:title "BregDCAT-AP "@en;
+  foaf:primaryTopic cssvrsc:9663adc228c60c001b469c7d5cde6c4fa2496e59b27a0449b6363b0231018e48 .
+
+elis:e93958d2-2f09-4950-be41-c022fc9d9f14 a dcat:CatalogRecord;
+  dct:title "Extensible Access Control Markup Language (XACML)"@en;
+  foaf:primaryTopic cssvrsc:1467c87128ba720b128f40df43147e0bb3617bc048b2e50a4d8e76b77d05daf2 .
+
+_:node1 dct:description "XACML manages and controls access to sensitive information and resources that may be integral to policy execution. The specification ensures that data and resources are used in accordance with the policy goals, enhancing the ability to manage and execute public policies with precision and accountability."@en;
+  dct:relation eira:PublicPolicyCourseOfAction .
+
+_:node2 dct:description "XACML sets a framework for defining and enforcing collections of personal data of individuals, processing and transference that is managed by public administrations."@en;
+  dct:relation eira:AgreementOnPrivacyContract .
+
+_:node3 dct:description "XACML provides a robust framework for defining and enforcing access control policies. The specification supports the creation of detailed policies for data access and usage, which is crucial for ensuring that digital policies align with security and privacy standards."@en;
+  dct:relation eira:Digital-readyPolicymakingBusinessProcess .
+
+_:node4 dct:description "The purpose of the XACML TC is to define a core schema and corresponding namespace for the expression of authorization policies in XML against objects that are themselves identified in XML."@en;
+  dct:relation eira:AccessManagementApplicationService .
+
+_:node5 dct:description "XACML is a powerful tool for managing access control policies that can integrate with electronic identification systems and data integrity mechanisms to provide a comprehensive security framework."@en;
+  dct:relation eira:AuthorisationApplicationService .
+
+_:node6 dct:description "The purpose of the XACML TC is to define a core schema and corresponding namespace for the expression of authorization policies in XML against objects that are themselves identified in XML."@en;
+  dct:relation eira:AccessManagementApplicationComponent .
+
+_:node7 dct:description "BRegDCAT-AP specifically tailors DCAT-AP for describing base registries, authoritative data sources maintained by public administrations, ensuring standardized, interoperable data sharing and accessibility across the EU."@en;
+  dct:relation eira:BaseRegistryDataObject .
+
+_:node8 dct:description "BRegDCAT-AP standardizes descriptions for public sector datasets, enhancing interoperability and discoverability across European dataset catalogues, facilitating easier sharing and reuse of authoritative registry data."@en;
+  dct:relation eira:DatasetCatalogueDataObject .
+
+_:node9 dct:description "Specification used by a forms management system allowing the creation, distribution and analysis of online surveys"@en;
+  dct:relation eira:FormsManagementApplicationService .
+
+_:node10 dct:description "Specification used by a forms management system allowing the creation, distribution and analysis of online surveys"@en;
+  dct:relation eira:FormsManagementApplicationComponent .
+
+_:node11 dct:description "This agreement constitutes a way of collaboration in the development of ICT standards that can be considered as the forum where specialised organisation work in close collaboration for the development of common opportunities. This can mean the creation of technical specifications or best practices for their development."@en;
+  dct:relation eira:TechnicalAgreementContract .
+
+_:node12 dct:description "This agreement constitutes a way of collaboration in the development of ICT standards that can be considered as the forum where specialised organisation work in close collaboration for the development of common opportunities. This can mean the creation of technical specifications or best practices for their development."@en;
+  dct:relation eira:TechnicalInteroperabilityAgreementContract .
