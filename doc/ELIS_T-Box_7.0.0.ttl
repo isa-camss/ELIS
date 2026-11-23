@@ -25,11 +25,11 @@
                                                        <http://www.w3.org/ns/dcat#>, 
                                                        <http://data.europa.eu/2sa/cav#> ; 
                                                                 owl:versionIRI cssv:ELIS.ttl ;													  
-                                                                cc:attributionName "CAMSS Team (Enric Stamoriejski Torregrosa, Juan Carlos Segura Fernandez-Carnicero, Hector Rico Lorenzo) and European Commission" ;
-                                                                dct:date "2025-06-26"^^xsd:date ;
-                                                                dct:description "This module provides the definitions for the Core Standards and Specifications Vocabulary."@en ;
+                                                                cc:attributionName "CAMSS Team and European Commission" ;
+                                                                dct:date "2026-04-30"^^xsd:date ;
+                                                                dct:description "The ELIS provides a set of interoperability specifications that define the interoperability requirements of the Architecture Building Blocks (ABBs) contained in the European Interoperability Reference Architecture (EIRA)."@en ;
                                                                 dct:title "EIRA Library of Interoperability Specifications"@en ;
                                                                 rdfs:label "EIRA Library of Interoperability Specifications"@en ;
                                                                 rdfs:seeAlso <https://github.com/isa-camss/ELIS> ,
                                                                                <https://interoperable-europe.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/solution/elis> ;
-                                                                owl:versionInfo "6.1.1""" .
+                                                                owl:versionInfo "7.0.0" .
