@@ -14,7 +14,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 <i>ELIS release components </i>
 
-The release components that can be seen above are being developed to generate the ELIS 7.0.0. The list below shows the release components that will be part of 7.0.0. 
+The release components that can be seen above are being developed to generate the ELIS 7.1.0. The list below shows the release components that will be part of 7.1.0. 
 
 <ul>
   <li>ELIS v7.1.0.ttl</li>
