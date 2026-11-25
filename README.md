@@ -9,7 +9,7 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 
 ## Relevant Documentation
 <h2>
-  <b>Current Release (7.0.0)</b> 
+  <b>Current Release (7.1.0)</b> 
 </h2>
 
 <i>ELIS release components </i>
@@ -17,17 +17,16 @@ ELIS is expressed as an electronic catalogue so it can be consumed by software a
 The release components that can be seen above are being developed to generate the ELIS 7.0.0. The list below shows the release components that will be part of 7.0.0. 
 
 <ul>
-  <li>ELIS v7.0.0.ttl</li>
-<li>ELIS v7.0.0.xlsx</li>
-<li>ELIS T-Box.v7.0.0</li>
-<li>EIRA v67.0.0 SKOS</li>
-<li>ELIS Overview v7.0.0</li>
+  <li>ELIS v7.1.0.ttl</li>
+<li>ELIS v7.1.0.xlsx</li>
+<li>ELIS T-Box.v7.1.0</li>
+<li>EIRA v7.0.0 SKOS</li>
+<li>ELIS Overview v7.1.0</li>
 <li>CAMSS Info Package v9.0.0</li>
 <li>ELIS Factsheets </li>
-<li>ELIS v67.0.0Release Notes</li>
+<li>ELIS v7.1.0 Release Notes</li>
 <li>EUPL License v1.2</li>
-<li>ELIS v7.0.0 Release</li>
-<li>SPARQL queries.zip</li>
+<li>ELIS v7.1.0 Release</li>
 </ul>
 
   
