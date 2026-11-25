@@ -32,4 +32,4 @@
                                                                 rdfs:label "EIRA Library of Interoperability Specifications"@en ;
                                                                 rdfs:seeAlso <https://github.com/isa-camss/ELIS> ,
                                                                                <https://interoperable-europe.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/solution/elis> ;
-                                                                owl:versionInfo "7.0.0" .
+                                                                owl:versionInfo "7.1.0" .
